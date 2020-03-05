@@ -1,0 +1,36 @@
+Tutorial Cara Penggunaan APLIKASI SEPATU BASGUS.COM
+=====================================================================================================================================
+NAMA KELOMPOK 2:
+
+1. ANGGIE ANGGRIANSYAH		(2014141770)
+2. CECEP TAUFIQUROHMAN		(2014142524)
+3. FERY FEBRIANTO		(2014143159)
+4. MOHAMMAD AFIF AZINDANI	(2014140903)
+
+=====================================================================================================================================
+1. Pastikan sudah menginstal XAMPP
+2. Pastikan folder sepatubagus berada di folder htdoct yang ada di folder xampp.
+3. buat database sepatubagus dan import database/file sql nya ke xampp.
+4. ada 2 aplikasi sepatu bagus yaitu back end dan front end.
+   back end buat mengelola/mengolah data2 sistem.
+   front end buat costumer agar bisa membeli produk sepatu yang diinginkan
+5. Untuk front end contumer buka di web browser localhost/sepatubagus lalu enter maka akan muncul sistem sepatu bagus
+   langkah-langkah untuk membeli sepatu sudah tersedia cara pembelian di dalam sistem jadi bisa lihat di sistem.
+6. untuk back end kita bisa membuka localhost/sepatubagus/adminweb lalu enter maka akan muncul menu login.
+   langkah-langkah :
+	1. login dengan username=fery dan password=fery enter ->
+	2. kita bisa mengedit menu utama, sub menu, mengedit profil, mengedit sekilas info, selamat datang, cara pembelian,
+	   kategori produk, tambah produk.
+	3. jika ada order masuk dari costumer maka kita bisa melihat di menu lihat orderr masuk->jika sudah lunas pembayaran maka ubah status menjadi lunas
+	4. jika ada pesan dari costumer maka kita bisa melihat di menu lihat pesan masuk.
+	5. edit ongkos kirim digunakan untuk mengubah dan menambahkan ongkos kirim.
+	6. menu laporan transaksi digunakan untuk melihat laporan transaksi dari tanggal berapa ke berapa.
+	7. menu edit poling
+	8. bisa juga mengganti gambar header slide show nya.
+	9. rekening bank bisa di edit
+	10.edit link terkait.
+	11.ganti password.
+	12.Edit modul admin.
+	13.Logout.
+
+SEKIAN DAN TERIMAKASIH

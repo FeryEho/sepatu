@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp56\htdocs\sepatubagus\ecommerce.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/sepatubagus/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/sepatubagus/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp56\htdocs\sepatubagus\index.php"/>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="C:\xampp56\htdocs\sepatubagus\css\default.advanced.css">
+			<error val="15;71;25;71;2501;1;"/>
+		</errfile>
+		<errfile name="C:\xampp56\htdocs\sepatubagus\adminweb\content.php">
+			<error val="8;139;41;139;254;2;"/>
+			<error val="8;161;41;161;254;2;"/>
+		</errfile>
+		<errfile name="C:\xampp56\htdocs\sepatubagus\style.css">
+			<error val="0;36;21;36;2502;1;"/>
+			<error val="0;175;19;175;2502;1;"/>
+			<error val="0;188;18;188;2502;1;"/>
+			<error val="0;277;23;277;2502;1;"/>
+			<error val="0;448;24;448;2502;1;"/>
+			<error val="0;564;18;564;2502;1;"/>
+			<error val="0;869;21;869;2502;1;"/>
+			<error val="0;1067;21;1067;2502;1;"/>
+			<error val="30;1141;39;1141;2502;1;"/>
+			<error val="10;1141;19;1141;2502;1;"/>
+			<error val="2;1141;8;1141;2502;1;"/>
+			<error val="22;1141;28;1141;2502;1;"/>
+			<error val="0;1156;3;1156;2501;1;"/>
+		</errfile>
+		<errfile name="C:\xampp56\htdocs\sepatubagus\pencarian.php">
+			<error val="0;3;6;3;252;1;"/>
+		</errfile>
+		<errfile name="C:\xampp56\htdocs\sepatubagus\media.php">
+			<error val="21;97;31;97;2002;1;"/>
+			<error val="47;98;67;98;2002;1;"/>
+			<error val="20;389;42;389;2002;1;"/>
+			<error val="2;81;8;82;2501;1;"/>
+			<error val="0;83;2;84;2501;1;"/>
+		</errfile>
+		<errfile name="C:\xampp56\htdocs\sepatubagus\loginuser.php">
+			<error val="7;2;29;2;2002;1;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\utils\validate.js" crc="1511758054"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\utils\mctabs.js" crc="1511758054"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\utils\mclayer.js" crc="1511758054"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\utils\form_utils.js" crc="1511758054"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\utils\editable_selects.js" crc="1511758054"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\simple\css\editor_ui.css" crc="1511758048"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\simple\css\editor_popup.css" crc="1511758048"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\simple\css\editor_content.css" crc="1511758048"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\simple\editor_template_src.js" crc="1511758048"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\simple\editor_template.js" crc="1511758048"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\langs\en.js" crc="1511758048"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\jscripts\source_editor.js" crc="1511758047"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\jscripts\link.js" crc="1511758047"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\jscripts\image.js" crc="1511758047"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\jscripts\color_picker.js" crc="1511758047"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\jscripts\charmap.js" crc="1511758047"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\jscripts\anchor.js" crc="1511758047"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\jscripts\about.js" crc="1511758047"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\docs\en\style.css" crc="1511758035"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\docs\en\insert_table_button.htm" crc="1511758034"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\docs\en\insert_link_button.htm" crc="1511758034"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\docs\en\insert_image_button.htm" crc="1511758034"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\docs\en\insert_anchor_button.htm" crc="1511758034"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\docs\en\index.htm" crc="1511758034"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\docs\en\create_accessible_content.htm" crc="1511758033"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\docs\en\common_buttons.htm" crc="1511758033"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\docs\en\about.htm" crc="1511758033"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\css\editor_ui.css" crc="1511758033"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\css\editor_popup.css" crc="1511758033"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\css\editor_content.css" crc="1511758033"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\source_editor.htm" crc="1511758048"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\link.htm" crc="1511758048"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\image.htm" crc="1511758035"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\editor_template_src.js" crc="1511758035"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\editor_template.js" crc="1511758035"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\color_picker.htm" crc="1511758032"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\charmap.htm" crc="1511758032"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\anchor.htm" crc="1511758032"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\themes\advanced\about.htm" crc="1511758032"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\zoom\readme.txt" crc="1511758032"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\zoom\editor_plugin_src.js" crc="1511758031"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\zoom\editor_plugin.js" crc="1511758031"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\youtube\langs\nl.js" crc="1511758031"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\youtube\langs\en.js" crc="1511758031"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\youtube\jscripts\youtube.js" crc="1511758031"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\youtube\css\youtube.css" crc="1511758030"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\youtube\css\content.css" crc="1511758030"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\youtube\youtube.htm" crc="1511758031"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\youtube\readme.txt" crc="1511758031"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\youtube\editor_plugin_src.js" crc="1511758030"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\youtube\editor_plugin.js" crc="1511758030"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\langs\en.js" crc="1511758030"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\jscripts\ins.js" crc="1511758029"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\jscripts\element_common.js" crc="1511758029"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\jscripts\del.js" crc="1511758029"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\jscripts\cite.js" crc="1511758029"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\jscripts\acronym.js" crc="1511758029"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\jscripts\abbr.js" crc="1511758029"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\css\xhtmlxtras.css" crc="1511758027"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\css\popup.css" crc="1511758027"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\ins.htm" crc="1511758028"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\editor_plugin_src.js" crc="1511758027"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\editor_plugin.js" crc="1511758027"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\del.htm" crc="1511758027"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\cite.htm" crc="1511758026"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\acronym.htm" crc="1511758026"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\xhtmlxtras\abbr.htm" crc="1511758026"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\visualchars\langs\en.js" crc="1511758025"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\visualchars\editor_plugin_src.js" crc="1511758025"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\visualchars\editor_plugin.js" crc="1511758025"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\langs\en.js" crc="1511758024"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\jscripts\table.js" crc="1511758024"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\jscripts\row.js" crc="1511758024"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\jscripts\merge_cells.js" crc="1511758024"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\jscripts\cell.js" crc="1511758023"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\css\table.css" crc="1511758020"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\css\row.css" crc="1511758020"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\css\cell.css" crc="1511758020"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\table.htm" crc="1511758025"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\row.htm" crc="1511758025"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\readme.txt" crc="1511758024"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\merge_cells.htm" crc="1511758024"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\editor_plugin_src.js" crc="1511758020"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\editor_plugin.js" crc="1511758020"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\table\cell.htm" crc="1511758020"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\style\langs\en.js" crc="1511758019"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\style\jscripts\props.js" crc="1511758019"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\style\css\props.css" crc="1511758018"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\style\readme.txt" crc="1511758020"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\style\props.htm" crc="1511758019"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\style\editor_plugin_src.js" crc="1511758018"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\style\editor_plugin.js" crc="1511758018"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\searchreplace\langs\en.js" crc="1511758018"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\searchreplace\jscripts\searchreplace.js" crc="1511758017"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\searchreplace\css\searchreplace.css" crc="1511758016"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\searchreplace\searchreplace.htm" crc="1511758018"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\searchreplace\readme.txt" crc="1511758018"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\searchreplace\editor_plugin_src.js" crc="1511758016"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\searchreplace\editor_plugin.js" crc="1511758016"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\save\langs\en.js" crc="1511758016"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\save\readme.txt" crc="1511758016"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\save\editor_plugin_src.js" crc="1511758015"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\save\editor_plugin.js" crc="1511758015"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\print\langs\en.js" crc="1511758015"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\print\readme.txt" crc="1511758015"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\print\editor_plugin_src.js" crc="1511758014"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\print\editor_plugin.js" crc="1511758014"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\preview\langs\en.js" crc="1511758014"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\preview\jscripts\embed.js" crc="1511758014"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\preview\readme.txt" crc="1511758014"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\preview\example.html" crc="1511758013"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\preview\editor_plugin_src.js" crc="1511758013"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\preview\editor_plugin.js" crc="1511758013"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\paste\langs\en.js" crc="1511758013"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\paste\jscripts\pasteword.js" crc="1511758012"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\paste\jscripts\pastetext.js" crc="1511758012"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\paste\css\pasteword.css" crc="1511758011"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\paste\css\blank.css" crc="1511758011"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\paste\readme.txt" crc="1511758013"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\paste\pasteword.htm" crc="1511758013"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\paste\pastetext.htm" crc="1511758013"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\paste\editor_plugin_src.js" crc="1511758011"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\paste\editor_plugin.js" crc="1511758011"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\paste\blank.htm" crc="1511758011"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\noneditable\css\noneditable.css" crc="1511758010"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\noneditable\readme.txt" crc="1511758011"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\noneditable\editor_plugin_src.js" crc="1511758011"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\noneditable\editor_plugin.js" crc="1511758011"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\nonbreaking\langs\en.js" crc="1511758010"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\nonbreaking\editor_plugin_src.js" crc="1511758009"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\nonbreaking\editor_plugin.js" crc="1511758009"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\media\langs\en.js" crc="1511758008"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\media\jscripts\media.js" crc="1511758008"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\media\jscripts\embed.js" crc="1511758008"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\media\css\media.css" crc="1511758006"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\media\css\content.css" crc="1511758005"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\media\media.htm" crc="1511758008"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\media\editor_plugin_src.js" crc="1511758006"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\media\editor_plugin.js" crc="1511758006"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\layer\langs\en.js" crc="1511758005"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\layer\readme.txt" crc="1511758005"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\layer\editor_plugin_src.js" crc="1511758003"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\layer\editor_plugin.js" crc="1511758003"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\insertdatetime\langs\en.js" crc="1511758002"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\insertdatetime\readme.txt" crc="1511758002"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\insertdatetime\editor_plugin_src.js" crc="1511758001"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\insertdatetime\editor_plugin.js" crc="1511758001"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\inlinepopups\jscripts\mcwindows.js" crc="1511758001"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\inlinepopups\css\inlinepopup.css" crc="1511757999"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\inlinepopups\readme.txt" crc="1511758001"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\inlinepopups\editor_plugin_src.js" crc="1511757999"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\inlinepopups\editor_plugin.js" crc="1511757999"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\iespell\langs\en.js" crc="1511757999"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\iespell\readme.txt" crc="1511757999"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\iespell\editor_plugin_src.js" crc="1511757998"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\iespell\editor_plugin.js" crc="1511757998"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\fullscreen\langs\en.js" crc="1511757998"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\fullscreen\css\content.css" crc="1511757997"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\fullscreen\readme.txt" crc="1511757998"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\fullscreen\editor_plugin_src.js" crc="1511757998"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\fullscreen\editor_plugin.js" crc="1511757998"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\fullpage\langs\en.js" crc="1511757997"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\fullpage\jscripts\fullpage.js" crc="1511757997"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\fullpage\css\fullpage.css" crc="1511757996"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\fullpage\fullpage.htm" crc="1511757996"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\fullpage\editor_plugin_src.js" crc="1511757996"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\fullpage\editor_plugin.js" crc="1511757996"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\fullpage\blank.htm" crc="1511757995"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\flash\langs\en.js" crc="1511757995"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\flash\jscripts\flash.js" crc="1511757995"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\flash\css\flash.css" crc="1511757994"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\flash\css\content.css" crc="1511757994"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\flash\readme.txt" crc="1511757995"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\flash\flash.htm" crc="1511757994"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\flash\editor_plugin_src.js" crc="1511757994"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\flash\editor_plugin.js" crc="1511757994"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\emotions\langs\en.js" crc="1511757993"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\emotions\jscripts\functions.js" crc="1511757993"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\emotions\images\readme.txt" crc="1511757990"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\emotions\readme.txt" crc="1511757993"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\emotions\emotions.htm" crc="1511757990"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\emotions\editor_plugin_src.js" crc="1511757990"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\emotions\editor_plugin.js" crc="1511757989"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\directionality\langs\en.js" crc="1511757989"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\directionality\readme.txt" crc="1511757989"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\directionality\editor_plugin_src.js" crc="1511757989"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\directionality\editor_plugin.js" crc="1511757989"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\devkit\langs\en.js" crc="1511757988"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\devkit\jscripts\diff.js" crc="1511757988"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\devkit\jscripts\devkit.js" crc="1511757988"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\devkit\css\devkit_ui.css" crc="1511757987"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\devkit\css\devkit.css" crc="1511757987"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\devkit\editor_plugin_src.js" crc="1511757987"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\devkit\editor_plugin.js" crc="1511757987"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\devkit\devkit.htm" crc="1511757987"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\contextmenu\css\contextmenu.css" crc="1511757986"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\contextmenu\readme.txt" crc="1511757986"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\contextmenu\editor_plugin_src.js" crc="1511757986"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\contextmenu\editor_plugin.js" crc="1511757986"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\cleanup\readme.txt" crc="1511757985"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\cleanup\editor_plugin_src.js" crc="1511757985"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\cleanup\editor_plugin.js" crc="1511757985"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\autosave\langs\en.js" crc="1511757985"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\autosave\readme.txt" crc="1511757985"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\autosave\editor_plugin_src.js" crc="1511757985"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\autosave\editor_plugin.js" crc="1511757985"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advlink\langs\en.js" crc="1511757984"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advlink\jscripts\functions.js" crc="1511757984"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advlink\css\advlink.css" crc="1511757983"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advlink\readme.txt" crc="1511757984"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advlink\link.htm" crc="1511757984"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advlink\editor_plugin_src.js" crc="1511757984"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advlink\editor_plugin.js" crc="1511757984"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advimage\langs\en.js" crc="1511757983"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advimage\jscripts\functions.js" crc="1511757983"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advimage\css\advimage.css" crc="1511757982"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advimage\readme.txt" crc="1511757983"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advimage\image.htm" crc="1511757982"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advimage\editor_plugin_src.js" crc="1511757982"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advimage\editor_plugin.js" crc="1511757982"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advhr\langs\en.js" crc="1511757981"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advhr\jscripts\rule.js" crc="1511757981"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advhr\css\advhr.css" crc="1511757980"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advhr\rule.htm" crc="1511757982"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advhr\readme.txt" crc="1511757981"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advhr\editor_plugin_src.js" crc="1511757981"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\advhr\editor_plugin.js" crc="1511757981"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\plugins\readme.txt" crc="1511758015"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\langs\readme.txt" crc="1511757980"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\langs\en.js" crc="1511757980"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\lang\en.js" crc="1511757979"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php" crc="1511757972"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Thumbnail.php" crc="1511757972"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\package.xml" crc="1511757972"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php" crc="1511757972"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php" crc="1511757972"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php" crc="1511757972"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php" crc="1511757971"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php" crc="1511757971"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php" crc="1511757971"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\wz_jsgraphics.js" crc="1511757971"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\slider.js" crc="1511757971"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\popup.js" crc="1511757971"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\manager.js" crc="1511757971"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\manager.css" crc="1511757971"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\images.js" crc="1511757971"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\imagelist.css" crc="1511757970"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\ImageEditor.css" crc="1511757970"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\editorFrame.js" crc="1511757970"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\editorFrame.css" crc="1511757970"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\EditorContent.js" crc="1511757970"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\editor.js" crc="1511757970"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\editor.css" crc="1511757970"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\assets\dialog.js" crc="1511757970"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\thumbs.php" crc="1511757980"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\README.txt" crc="1511757979"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\newFolder.html" crc="1511757979"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\manager.php" crc="1511757979"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\IMEStandalone.js" crc="1511757973"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\images.php" crc="1511757973"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\editorFrame.php" crc="1511757973"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\editor.php" crc="1511757972"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\config.inc.php" crc="1511757972"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\js\wz_jsgraphics.js" crc="1511757967"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\js\fckxml.js" crc="1511757967"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\js\EditorContent.js" crc="1511757967"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\js\common.js" crc="1511757966"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Docs\readme.txt" crc="1511757950"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Docs\license.txt" crc="1511757950"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Docs\AuthenticationHandlers.txt" crc="1511757950"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\helpers\upload.cgi" crc="1511757949"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\helpers\progress.cgi" crc="1511757949"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\helpers\iconlookup.php" crc="1511757949"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\helpers\header.cgi" crc="1511757949"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\helpers\.htaccess" crc="1511757948"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php" crc="1511757949"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\RenameFolder.php" crc="1511757949"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\RenameFile.php" crc="1511757949"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetUploadProgress.php" crc="1511757948"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetFoldersAndFiles.php" crc="1511757948"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetFolders.php" crc="1511757948"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\FileUpload.php" crc="1511757948"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\DeleteFolder.php" crc="1511757948"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\DeleteFile.php" crc="1511757948"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\CreateFolder.php" crc="1511757948"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Auth\Default.php" crc="1511757948"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\connector.php" crc="1511757949"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\config.php" crc="1511757949"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\frmupload.html" crc="1511757954"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\frmresourcetype.html" crc="1511757954"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\frmresourceslist.html" crc="1511757954"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\frmimageeditor.html" crc="1511757954"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\frmfolders.html" crc="1511757953"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\frmcreatefolder.html" crc="1511757953"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\frmactualfolder.html" crc="1511757953"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\browser.html" crc="1511757947"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\browser.css" crc="1511757947"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\tiny_mce_src.js" crc="1511758052"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\tiny_mce_popup.js" crc="1511758052"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\tiny_mce_gzip.php" crc="1511758052"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\tiny_mce_gzip.js" crc="1511758052"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\tiny_mce.js" crc="1511758052"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\index.html" crc="1511757980"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tinymcpuk\blank.htm" crc="1511757947"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\Trebuchet_MS_400-Trebuchet_MS_700-Trebuchet_MS_italic_700-Trebuchet_MS_italic_400.font.js" crc="1511757944"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\thumbgallery.js" crc="1511757944"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\Sizzle.js" crc="1511757944"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\newsticker.js" crc="1511757944"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\lightbox.js" crc="1511757944"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\jquery.min14.js" crc="1511757944"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\jquery.min.js" crc="1511757943"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\jquery.fancybox-1.3.1.js" crc="1511757943"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\jquery.easing.1.2.js" crc="1511757943"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\jquery.dropdown.js" crc="1511757943"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\jquery.anythingslider.js" crc="1511757943"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\jquery.ad-gallery.js" crc="1511757943"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\jquery-ui.min.js" crc="1511757943"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\jcarousellite_1.0.1.js" crc="1511757943"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\eurofurence_500-eurofurence_700.font_9bc22cbd.js" crc="1511757943"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\easy.js" crc="1511757942"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\cufon.js" crc="1511757942"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\cufon-yui.js" crc="1511757942"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\contentslider.js" crc="1511757942"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\clearbox.js" crc="1511757942"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\bottom_scroller.js" crc="1511757942"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\js\anythingslider.js" crc="1511757942"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\database\griyagaya.sql" crc="1511757893"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\css\ticker.css" crc="1511757893"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\css\style.css" crc="1511757893"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\css\slider.css" crc="1511757893"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\css\jquery.fancybox-1.3.1.css" crc="1511757892"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\css\jquery.ad-gallery.css" crc="1511757892"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\css\default.advanced.css" crc="1511757892"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\css\contentslider.css" crc="1511757892"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\library.php" crc="1511757891"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\kota.php" crc="1511757891"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\koneksi.php" crc="1511757891"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\jquery.js" crc="1511757891"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\jasa.php" crc="1511757890"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\fungsi_thumb.php" crc="1511757890"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\fungsi_seo.php" crc="1511757890"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\fungsi_rupiah.php" crc="1511757890"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\fungsi_indotgl.php" crc="1511757890"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\fungsi_combobox.php" crc="1511757890"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\fungsi_badword.php" crc="1511757890"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\fungsi_autolink.php" crc="1511757890"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\class_paging2.php" crc="1511757890"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\config\class_paging.php" crc="1511757890"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\clearbox\language\en\cb_language.js" crc="1511757889"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\clearbox\core\cb_core.js" crc="1511757889"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\clearbox\config\default\cb_style.css" crc="1511757883"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\clearbox\config\default\cb_config.js" crc="1511757883"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\asset\validasi.js" crc="1511757881"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\asset\popup.js" crc="1511757881"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\asset\jquery.js" crc="1511757881"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\asset\ajax.js" crc="1511757881"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_ym\ym.php" crc="1511757880"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_ym\aksi_ym.php" crc="1511757880"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_welcome\welcome.php" crc="1511757880"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_welcome\aksi_welcome.php" crc="1511757880"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_submenu\submenu.php" crc="1511757879"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_submenu\aksi_submenu.php" crc="1511757879"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_shoutbox\shoutbox.php" crc="1511757879"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_shoutbox\aksi_shoutbox.php" crc="1511757879"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_sekilasinfo\sekilasinfo.php" crc="1511757878"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_sekilasinfo\aksi_sekilasinfo.php" crc="1511757878"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_sekilasinfo\aksi_alldel.php" crc="1511757878"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_propinsi\propinsi.php" crc="1511757878"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_propinsi\aksi_propinsi.php" crc="1511757877"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_profil\profil.php" crc="1511757877"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_profil\aksi_profil.php" crc="1511757877"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_produk\produk.php" crc="1511757876"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_produk\aksi_produk.php" crc="1511757876"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_poling\poling.php" crc="1511757876"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_poling\aksi_poling.php" crc="1511757876"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_pengiriman\pengiriman.php" crc="1511757875"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_pengiriman\aksi_pengiriman.php" crc="1511757875"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_password\password.php" crc="1511757875"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_password\aksi_password.php" crc="1511757875"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_order\order.php" crc="1511757875"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_order\aksi_order.php" crc="1511757875"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_order\aksi_alldel.php" crc="1511757875"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_ongkoskirim\ongkoskirim.php" crc="1511757874"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_ongkoskirim\aksi_ongkoskirim.php" crc="1511757874"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_modul\modul.php" crc="1511757874"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_modul\aksi_modul.php" crc="1511757874"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_menuutama\menuutama.php" crc="1511757874"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_menuutama\aksi_menuutama.php" crc="1511757874"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\rupiah.php" crc="1511757874"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\pdf_toko.php" crc="1511757873"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\laporan.php" crc="1511757873"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php" crc="1511757869"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php" crc="1511757869"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_kota\kota.php" crc="1511757869"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_kota\aksi_kota.php" crc="1511757869"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_kategori\kategori.php" crc="1511757868"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_kategori\aksi_kategori.php" crc="1511757868"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_jasakirim\jasakirim.php" crc="1511757868"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_jasakirim\aksi_jasakirim.php" crc="1511757868"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_hubungi\hubungi.php" crc="1511757865"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_hubungi\aksi_hubungi.php" crc="1511757865"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_header\header.php" crc="1511757865"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_header\aksi_header.php" crc="1511757865"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_download\download.php" crc="1511757864"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_download\aksi_download.php" crc="1511757864"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_carabeli\carabeli.php" crc="1511757864"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_carabeli\aksi_carabeli.php" crc="1511757864"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_berita\berita.php" crc="1511757864"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_berita\aksi_berita.php" crc="1511757864"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_banner\banner.php" crc="1511757863"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_banner\aksi_banner.php" crc="1511757863"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_bank\bank.php" crc="1511757863"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_bank\aksi_bank.php" crc="1511757863"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\tiny_mce\jquery.tinymce.js" crc="1511757862"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\script.js" crc="1511757862"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\jquery.wysiwyg.js" crc="1511757861"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\jquery.visualize.js" crc="1511757861"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\jquery.ui.js" crc="1511757861"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\jquery.js" crc="1511757861"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\jquery.jeditable.js" crc="1511757861"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\jquery.idtabs.js" crc="1511757861"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\jquery.fancybox.js" crc="1511757861"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\jquery.datatables.js" crc="1511757861"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\Geometr231_Hv_BT_400.font.js" crc="1511757860"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\excanvas.js" crc="1511757860"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\js\cufon.js" crc="1511757856"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\css\visualize.css" crc="1511757836"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\css\visualize-light.css" crc="1511757836"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\css\screen.css" crc="1511757836"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\css\reset.css" crc="1511757836"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\css\jquery.wysiwyg.css" crc="1511757836"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\css\jquery.ui.css" crc="1511757836"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\css\fancybox.css" crc="1511757836"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\style.css" crc="1511757880"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\menu3.php" crc="1511757862"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\menu2.php" crc="1511757862"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\menu.php" crc="1511757862"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\media.php" crc="1511757862"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\logout2.php" crc="1511757862"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\logout.php" crc="1511757862"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\index.php" crc="1511757854"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\forget.php" crc="1511757837"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\content.php" crc="1511757836"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\adminweb\cek_login.php" crc="1511757835"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tengah2.php" crc="1511757946"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\tengah.php" crc="1512191070"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\style.css" crc="1512151714"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\sepatubagus.sql" crc="1511757945"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\sekilasinfo.php" crc="1511757945"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\random_header.php" crc="1511757945"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\profil.php" crc="1511757945"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\polling.php" crc="1511757945"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\pencarian.php" crc="1511757945"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\paging.css" crc="1511757945"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\media.php" crc="1512191158"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\lightbox.css" crc="1511757944"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\item2.php" crc="1511757942"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\item.php" crc="1512188916"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\index.php" crc="1511757941"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\hapus_orderfiktif.php" crc="1511757915"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\downlot.php" crc="1511757894"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\dina_titel.php" crc="1511757893"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\dina_meta2.php" crc="1511757893"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\dina_meta1.php" crc="1511757893"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\detail_produk.php" crc="1511757893"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\cek_login_user.php" crc="1512188367"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\captcha.php" crc="1511757882"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\breadcrumb.php" crc="1511757882"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\bestseller.php" crc="1511757881"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\almanak.js" crc="1511757881"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\aksi.php" crc="1511757881"/>
+		<file name="C:\xampp56\htdocs\sepatubagus\.htaccess" crc="1511757835"/>
+	</filescache>
+</project>

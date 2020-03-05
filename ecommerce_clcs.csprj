@@ -1,0 +1,2348 @@
+<codestructure version="5.11">
+<phptree>
+<treenode node="../../../config/fungsi_seo.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_submenu\aksi_submenu.php;f9;10;39;10;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_produk\aksi_produk.php;f9;5;39;5;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_menuutama\aksi_menuutama.php;f9;9;39;9;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_kategori\aksi_kategori.php;f9;3;39;3;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_berita\aksi_berita.php;f9;12;39;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../../../config/fungsi_thumb.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_welcome\aksi_welcome.php;f9;3;41;3;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_submenu\aksi_submenu.php;f9;9;41;9;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_sekilasinfo\aksi_sekilasinfo.php;f9;3;41;3;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_profil\aksi_profil.php;f9;3;41;3;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_produk\aksi_produk.php;f9;4;41;4;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_header\aksi_header.php;f9;3;41;3;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_download\aksi_download.php;f9;10;41;10;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_berita\aksi_berita.php;f9;11;41;11;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_banner\aksi_banner.php;f9;3;41;3;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_bank\aksi_bank.php;f9;3;41;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../../../config/koneksi.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_ym\aksi_ym.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_welcome\aksi_welcome.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_submenu\aksi_submenu.php;f9;8;36;8;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_shoutbox\aksi_shoutbox.php;f9;8;36;8;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_sekilasinfo\aksi_sekilasinfo.php;f9;1;36;1;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_sekilasinfo\aksi_alldel.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_propinsi\aksi_propinsi.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_profil\aksi_profil.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_produk\aksi_produk.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_poling\aksi_poling.php;f9;8;36;8;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_pengiriman\aksi_pengiriman.php;f9;6;36;6;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_password\aksi_password.php;f9;1;36;1;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_order\aksi_order.php;f9;3;36;3;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_order\aksi_alldel.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_ongkoskirim\aksi_ongkoskirim.php;f9;1;36;1;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_modul\aksi_modul.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_menuutama\aksi_menuutama.php;f9;8;36;8;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_kota\aksi_kota.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_kategori\aksi_kategori.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_jasakirim\aksi_jasakirim.php;f9;6;36;6;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_hubungi\aksi_hubungi.php;f9;1;36;1;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_header\aksi_header.php;f9;1;36;1;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_download\aksi_download.php;f9;8;36;8;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_carabeli\aksi_carabeli.php;f9;1;36;1;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_berita\aksi_berita.php;f9;9;36;9;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_banner\aksi_banner.php;f9;1;36;1;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_bank\aksi_bank.php;f9;1;36;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../../../config/library.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_sekilasinfo\aksi_sekilasinfo.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_produk\aksi_produk.php;f9;3;36;3;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_header\aksi_header.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_download\aksi_download.php;f9;9;36;9;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_berita\aksi_berita.php;f9;10;36;10;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_banner\aksi_banner.php;f9;2;36;2;;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_bank\aksi_bank.php;f9;2;36;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../config/class_paging.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f9;5;35;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../config/fungsi_combobox.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f9;4;38;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../config/fungsi_indotgl.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f9;3;37;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../config/fungsi_rupiah.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f9;6;36;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../config/koneksi.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\menu3.php;f9;1;30;1;;C:\xampp56\htdocs\sepatubagus\adminweb\menu2.php;f9;1;30;1;;C:\xampp56\htdocs\sepatubagus\adminweb\menu.php;f9;1;30;1;;C:\xampp56\htdocs\sepatubagus\adminweb\media.php;f9;1;30;1;;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f9;1;30;1;;C:\xampp56\htdocs\sepatubagus\adminweb\cek_login.php;f9;1;30;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../config/library.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f9;2;30;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="./Auth/;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\connector.php;f16;109;23;109;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="breadcrumb.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f29;132;43;132;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="class.ezpdf.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\pdf_toko.php;f10;3;25;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="class.pdf.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f14;2;27;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="Classes/ImageEditor.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\editorFrame.php;f14;11;37;11;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\editor.php;f14;10;37;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="Classes/ImageManager.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\thumbs.php;f14;11;38;11;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\manager.php;f15;9;39;9;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\images.php;f14;9;38;9;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\editorFrame.php;f14;10;38;10;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\editor.php;f14;9;38;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="Classes/Thumbnail.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\thumbs.php;f14;12;35;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="Commands/;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\connector.php;f15;133;24;133;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="config.inc.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\thumbs.php;f14;10;28;10;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\manager.php;f15;8;29;8;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\images.php;f14;8;28;8;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\editorFrame.php;f14;9;28;9;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\editor.php;f14;8;28;8;;;;vpos;;v;;r
+Description
+     On the fly Thumbnail generation. Creates thumbnails given by thumbs.php?img=/relative/path/to/image.jpg relative to the base_dir given in config.inc.php;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="config.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\connector.php;f14;21;24;21;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="config/class_paging.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f11;5;34;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="config/fungsi_autolink.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f11;8;37;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="config/fungsi_combobox.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f11;6;37;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="config/fungsi_indotgl.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f11;4;36;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="config/fungsi_rupiah.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f11;9;35;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="config/koneksi.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\forget.php;f9;10;27;10;;C:\xampp56\htdocs\sepatubagus\aksi.php;f9;3;27;3;;C:\xampp56\htdocs\sepatubagus\media.php;f11;3;29;3;;C:\xampp56\htdocs\sepatubagus\downlot.php;f9;1;27;1;;C:\xampp56\htdocs\sepatubagus\cek_login_user.php;f9;1;27;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="config/library.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\aksi.php;f9;4;27;4;;C:\xampp56\htdocs\sepatubagus\media.php;f11;7;29;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="content.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\media.php;f37;173;48;173;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="dina_meta1.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f49;20;63;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="dina_meta2.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f46;21;60;21;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="dina_titel.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f22;17;36;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_COPY_OK;PHP:PHP Word;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f8;11;20;11;;;;vpos;;v;;r103;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_ERROR_COPY_FAILED;PHP:PHP Word;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f8;9;30;9;;;;vpos;;v;;r101;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_ERROR_DST_DIR_FAILED;PHP:PHP Word;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f8;10;33;10;;;;vpos;;v;;r102;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_ERROR_NO_SOURCE;PHP:PHP Word;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f8;8;28;8;;;;vpos;;v;;r
+Description
+     File Utilities.;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="Files.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f14;8;23;8;;;;vpos;;v;;r
+Description
+     ImageManager, list images, directories, and thumbnails.;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="hapus_orderfiktif.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f11;10;32;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="helpers/iconlookup.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f9;22;31;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="IMAGE_CLASS;PHP:PHP Word;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\config.inc.php;f8;48;19;48;;;;vpos;;v;;r&apos;GD&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="IMAGE_TRANSFORM_LIB_PATH;PHP:PHP Word;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\config.inc.php;f8;57;32;57;;;;vpos;;v;;r&apos;h:\\jobber\\imagemagic\\&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="item.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f40;181;48;181;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="koneksi.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\config\kota.php;f14;1;25;1;;C:\xampp56\htdocs\sepatubagus\config\jasa.php;f14;1;25;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="menu.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\media.php;f21;129;29;129;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="menu2.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\media.php;f21;134;30;134;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="menu3.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\media.php;f20;139;29;139;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_bank/bank.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;82;36;82;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_banner/banner.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;89;40;89;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_bestseller/bestseller.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;46;48;46;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_carabeli/carabeli.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;75;44;75;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_download/download.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;170;44;170;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_header/header.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;97;40;97;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_hubungi/hubungi.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;68;42;68;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_kategori/kategori.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;33;44;33;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_laporan/laporan.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;134;42;134;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_menuutama/menuutama.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;104;46;104;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_modul/modul.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;26;38;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_ongkoskirim/ongkoskirim.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;120;50;120;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_order/order.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;54;38;54;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_password/password.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;127;44;127;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_pengiriman/pengiriman.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f16;141;51;141;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_poling/poling.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;183;40;183;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_produk/produk.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;40;40;40;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_profil/profil.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;61;40;61;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_sekilasinfo/sekilasinfo.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;176;50;176;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_shoutbox/shoutbox.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;190;44;190;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_submenu/submenu.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;112;42;112;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_welcome/welcome.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;156;42;156;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="modul/mod_ym/ym.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\content.php;f13;149;32;149;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="polling.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f41;370;52;370;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="rupiah.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\pdf_toko.php;f9;4;19;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="sekilasinfo.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f31;359;46;359;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="tengah.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\media.php;f65;167;75;167;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="Transform.php;PHP:PHP Include;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Thumbnail.php;f14;9;27;9;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f14;30;27;30;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f14;8;27;8;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f14;32;27;32;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f14;44;27;44;;;;vpos;;v;;r
+Description
+     Create thumbnails.;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="Auth;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Auth\Default.php;f0;20;1;82;;;;vpos;;v;;r;;d11,20;;b0,0;;m">
+<treenode node="authenticate;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Auth\Default.php;f1;22;2;81;;;;vpos;;v;;r;;d45,22;;b0,0;;mdata;;pfckphp_config;;p">
+</treenode>
+</treenode>
+<treenode node="Cezpdf;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;4;1;1553;;;;vpos;;vCpdf;;c;;r;;d26,4;;b0,0;;m">
+<treenode node="alink;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;1472;1;1513;;;;vpos;;v;;r;;d33,1472;;b0,0;;minfo;;pinternal;;p">
+</treenode>
+<treenode node="Cezpdf;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;27;1;128;;;;vpos;;v;;r;;d52,27;;b0,0;;mpaper;;porientation;;p">
+</treenode>
+<treenode node="execTemplate;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;1459;1;1465;;;;vpos;;v;;r;;d57,1459;;b0,0;;mid;;pdata;;poptions;;p">
+</treenode>
+<treenode node="ezColumnsStart;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;143;1;174;;;;vpos;;v;;r;;d41,143;;b0,0;;moptions;;p">
+</treenode>
+<treenode node="ezColumnsStop;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;176;1;184;;;;vpos;;v;;r;;d24,176;;b0,0;;m">
+</treenode>
+<treenode node="ezGetCurrentPageNumber;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;265;1;268;;;;vpos;;v;;r;;d33,265;;b0,0;;m">
+</treenode>
+<treenode node="ezImage;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;1300;1;1417;;;;vpos;;v;;r;;d91,1300;;b0,0;;mimage;;ppad;;pwidth;;presize;;pjust;;pborder;;p">
+</treenode>
+<treenode node="ezInsertMode;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;186;1;200;;;;vpos;;v;;r;;d57,186;;b0,0;;mstatus;;ppageNum;;ppos;;p">
+</treenode>
+<treenode node="ezNewPage;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;203;1;241;;;;vpos;;v;;r;;d20,203;;b0,0;;m">
+</treenode>
+<treenode node="ezOutput;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;460;1;463;;;;vpos;;v;;r;;d29,460;;b0,0;;moptions;;p">
+</treenode>
+<treenode node="ezProcessText;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;1194;1;1200;;;;vpos;;v;;r;;d29,1194;;b0,0;;mtext;;p">
+</treenode>
+<treenode node="ezPRVTaddPageNumbers;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;376;1;443;;;;vpos;;v;;r;;d31,376;;b0,0;;m">
+</treenode>
+<treenode node="ezPRVTcleanUp;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;447;1;449;;;;vpos;;v;;r;;d24,447;;b0,0;;m">
+</treenode>
+<treenode node="ezPrvtGetTextWidth;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;590;1;602;;;;vpos;;v;;r;;d40,590;;b0,0;;msize;;ptext;;p">
+</treenode>
+<treenode node="ezPRVTpageNumberSearch;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;359;1;372;;;;vpos;;v;;r;;d43,359;;b0,0;;mlbl;;ptmp;;p">
+</treenode>
+<treenode node="ezPrvtTableColumnHeadings;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;525;1;586;;;;vpos;;v;;r;;d109,525;;b0,0;;mcols;;ppos;;pmaxWidth;;pheight;;pdecender;;pgap;;psize;;py;;poptionsAll;;p">
+</treenode>
+<treenode node="ezPrvtTableDrawLines;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;496;1;521;;;;vpos;;v;;r;;d86,496;;b0,0;;mpos;;pgap;;px0;;px1;;py0;;py1;;py2;;pcol;;pinner;;pouter;;popt;;p">
+</treenode>
+<treenode node="ezSetCmMargins;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;133;1;139;;;;vpos;;v;;r;;d50,133;;b0,0;;mtop;;pbottom;;pleft;;pright;;p">
+</treenode>
+<treenode node="ezSetDy;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;478;1;492;;;;vpos;;v;;r;;d29,478;;b0,0;;mdy;;pmod;;p">
+</treenode>
+<treenode node="ezSetMargins;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;245;1;261;;;;vpos;;v;;r;;d48,245;;b0,0;;mtop;;pbottom;;pleft;;pright;;p">
+</treenode>
+<treenode node="ezSetY;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;467;1;474;;;;vpos;;v;;r;;d19,467;;b0,0;;my;;p">
+</treenode>
+<treenode node="ezStartPageNumbers;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;272;1;294;;;;vpos;;v;;r;;d99,272;;b0,0;;mx;;py;;psize;;ppos;;ppattern;;pnum;;p">
+</treenode>
+<treenode node="ezStopPageNumbers;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;330;1;355;;;;vpos;;v;;r;;d53,330;;b0,0;;mstopTotal;;pnext;;pi;;p">
+</treenode>
+<treenode node="ezStream;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;453;1;456;;;;vpos;;v;;r;;d30,453;;b0,0;;moptions;;p">
+</treenode>
+<treenode node="ezTable;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;606;1;1191;;;;vpos;;v;;r;;d55,606;;b0,0;;mdata;;pcols;;ptitle;;poptions;;p">
+</treenode>
+<treenode node="ezText;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;1204;1;1296;;;;vpos;;v;;r;;d55,1204;;b0,0;;mtext;;psize;;poptions;;ptest;;p">
+</treenode>
+<treenode node="ezWhatPageNumber;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;298;1;326;;;;vpos;;v;;r;;d40,298;;b0,0;;mpageNum;;pi;;p">
+</treenode>
+<treenode node="ilink;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;1468;1;1470;;;;vpos;;v;;r;;d21,1468;;b0,0;;minfo;;p">
+</treenode>
+<treenode node="loadTemplate;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;1422;1;1455;;;;vpos;;v;;r;;d36,1422;;b0,0;;mtemplateFile;;p">
+</treenode>
+<treenode node="uline;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.ezpdf.php;f0;1517;1;1549;;;;vpos;;v;;r;;d21,1517;;b0,0;;minfo;;p">
+</treenode>
+</treenode>
+<treenode node="Cpdf;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;22;1;3072;;;;vpos;;v;;r
+Definition
+    class Cpdf
+
+Description
+     Cpdf;;d11,22;;b0,0;;m">
+<treenode node="addContent;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1647;1;1649;;;;vpos;;v;;r
+Definition
+    addContent($content)
+
+Description
+     add content to the currently active object;;d29,1647;;b0,0;;mcontent;;p">
+</treenode>
+<treenode node="addDestination;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2968;1;2977;;;;vpos;;v;;r
+Definition
+    addDestination($label,$style,$a=0,$b=0,$c=0)
+
+Description
+     create a labelled destination within the document;;d53,2968;;b0,0;;mlabel;;pstyle;;pa;;pb;;pc;;p">
+</treenode>
+<treenode node="addImage;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2869;1;2923;;;;vpos;;v;;r
+Definition
+    addImage(&amp;$img,$x,$y,$w=0,$h=0,$quality=75)
+
+Description
+     add an image into the document, from a GD object this function is not all that reliable, and I would probably encourage people to use the file based functions;;d52,2869;;b0,0;;mimg;;px;;py;;pw;;ph;;pquality;;p">
+</treenode>
+<treenode node="addInfo;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2589;1;2601;;;;vpos;;v;;r
+Definition
+    addInfo($label,$value=0)
+
+Description
+     add content to the documents info object;;d33,2589;;b0,0;;mlabel;;pvalue;;p">
+</treenode>
+<treenode node="addInternalLink;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1172;1;1176;;;;vpos;;v;;r
+Definition
+    addInternalLink($label,$x0,$y0,$x1,$y1)
+
+Description
+     add a link in the document to an internal destination (ie. within the document);;d48,1172;;b0,0;;mlabel;;px0;;py0;;px1;;py1;;p">
+</treenode>
+<treenode node="addJpegFromFile;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2824;1;2862;;;;vpos;;v;;r
+Definition
+    addJpegFromFile($img,$x,$y,$w=0,$h=0)
+
+Description
+     add a JPEG image into the document, from a file;;d46,2824;;b0,0;;mimg;;px;;py;;pw;;ph;;p">
+</treenode>
+<treenode node="addJpegImage_common;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2930;1;2943;;;;vpos;;v;;r
+Definition
+    addJpegImage_common(&amp;$data,$x,$y,$w=0,$h=0,$imageWidth,$imageHeight,$channels=3)
+
+Description
+     common code used by the two JPEG adding functions;;d89,2930;;b0,0;;mdata;;px;;py;;pw;;ph;;pimageWidth;;pimageHeight;;pchannels;;p">
+</treenode>
+<treenode node="addLink;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1163;1;1167;;;;vpos;;v;;r
+Definition
+    addLink($url,$x0,$y0,$x1,$y1)
+
+Description
+     add a link in the document to an external URL;;d38,1163;;b0,0;;murl;;px0;;py0;;px1;;py1;;p">
+</treenode>
+<treenode node="addMessage;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;3021;1;3023;;;;vpos;;v;;r
+Definition
+    addMessage($message)
+
+Description
+     used to add messages for use in debugging;;d29,3021;;b0,0;;mmessage;;p">
+</treenode>
+<treenode node="addObject;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2543;1;2584;;;;vpos;;v;;r
+Definition
+    addObject($id,$options=&apos;add&apos;)
+
+Description
+     after an object has been created, it wil only show if it has been added, using this function.;;d38,2543;;b0,0;;mid;;poptions;;p">
+</treenode>
+<treenode node="addPngFromFile;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2636;1;2819;;;;vpos;;v;;r
+Definition
+    addPngFromFile($file,$x,$y,$w=0,$h=0)
+
+Description
+     add a PNG image into the document, from a file this should work with remote files;;d46,2636;;b0,0;;mfile;;px;;py;;pw;;ph;;p">
+</treenode>
+<treenode node="addText;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2155;1;2241;;;;vpos;;v;;r
+Definition
+    addText($x,$y,$size,$text,$angle=0,$wordSpaceAdjust=0)
+
+Description
+     add text to the document, at a specified location, size and angle on the page;;d63,2155;;b0,0;;mx;;py;;psize;;ptext;;pangle;;pwordSpaceAdjust;;p">
+</treenode>
+<treenode node="addTextWrap;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2330;1;2438;;;;vpos;;v;;r
+Definition
+    addTextWrap($x,$y,$width,$size,$text,$justification=&apos;left&apos;,$angle=0,$test=0)
+
+Description
+     add text to the page, but ensure that it fits within a certain width if it does not fit then put in as much as possible, splitting at word boundaries and return the remainder. justification and angle can also be specified for the text;;d85,2330;;b0,0;;mx;;py;;pwidth;;psize;;ptext;;pjustification;;pangle;;ptest;;p">
+</treenode>
+<treenode node="ARC4;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1137;1;1154;;;;vpos;;v;;r
+Definition
+    ARC4($text)
+
+Description
+     ARC4 encrypt a text string;;d20,1137;;b0,0;;mtext;;p">
+</treenode>
+<treenode node="ARC4_init;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1111;1;1132;;;;vpos;;v;;r
+Definition
+    ARC4_init($key=&apos;&apos;)
+
+Description
+     initialize the ARC4 encryption;;d27,1111;;b0,0;;mkey;;p">
+</treenode>
+<treenode node="checkAllHere;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1213;1;1214;;;;vpos;;v;;r
+Definition
+    checkAllHere()
+
+Description
+     should be used for internal checks, not implemented as yet;;d23,1213;;b0,0;;m">
+</treenode>
+<treenode node="closeObject;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2517;1;2527;;;;vpos;;v;;r
+Definition
+    closeObject()
+
+Description
+     close an object;;d22,2517;;b0,0;;m">
+</treenode>
+<treenode node="Cpdf;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;196;1;203;;;;vposarray;;v;;r;;d44,196;;b0,0;;mpageSize;;p">
+</treenode>
+<treenode node="curve;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1681;1;1686;;;;vpos;;v;;r
+Definition
+    curve($x0,$y0,$x1,$y1,$x2,$y2,$x3,$y3)
+
+Description
+     draw a bezier curve based on 4 control points;;d47,1681;;b0,0;;mx0;;py0;;px1;;py1;;px2;;py2;;px3;;py3;;p">
+</treenode>
+<treenode node="ellipse;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1712;1;1773;;;;vpos;;v;;r
+Definition
+    ellipse($x0,$y0,$r1,$r2=0,$angle=0,$nSeg=8,$astart=0,$afinish=360,$close=1,$fill=0)
+
+Description
+     draw an ellipse note that the part and filled ellipse are just special cases of this function;;d92,1712;;b0,0;;mx0;;py0;;pr1;;pr2;;pangle;;pnSeg;;pastart;;pafinish;;pclose;;pfill;;p">
+</treenode>
+<treenode node="encryptInit;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1097;1;1106;;;;vpos;;v;;r
+Definition
+    encryptInit($id)
+
+Description
+     initialize the encryption for processing a particular object;;d25,1097;;b0,0;;mid;;p">
+</treenode>
+<treenode node="filledEllipse;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1698;1;1700;;;;vpos;;v;;r
+Definition
+    filledEllipse($x0,$y0,$r1,$r2=0,$angle=0,$nSeg=8,$astart=0,$afinish=360)
+
+Description
+     draw a filled ellipse;;d81,1698;;b0,0;;mx0;;py0;;pr1;;pr2;;pangle;;pnSeg;;pastart;;pafinish;;p">
+</treenode>
+<treenode node="filledRectangle;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1834;1;1836;;;;vpos;;v;;r
+Definition
+    filledRectangle($x1,$y1,$width,$height)
+
+Description
+     a filled rectangle, note that it is the width and height of the rectangle which are the secondary paramaters, not the coordinates of the upper-right corner;;d48,1834;;b0,0;;mx1;;py1;;pwidth;;pheight;;p">
+</treenode>
+<treenode node="filterText;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1957;1;1968;;;;vpos;;v;;r
+Definition
+    filterText($text)
+
+Description
+     filter the text, this is applied to all text just before being inserted into the pdf document it escapes the various things that need to be escaped, and so on;;d26,1957;;b0,0;;mtext;;p">
+</treenode>
+<treenode node="getFirstPageId;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1638;1;1640;;;;vpos;;v;;r
+Definition
+    getFirstPageId()
+
+Description
+     function for the user to find out what the ID is of the first page that was created during startup - useful if they wish to add something to it later.;;d25,1638;;b0,0;;m">
+</treenode>
+<treenode node="getFontDecender;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1942;1;1949;;;;vpos;;v;;r
+Definition
+    getFontDecender($size)
+
+Description
+     return the font decender, this will normally return a negative number if you add this number to the baseline, you get the level of the bottom of the font it is in the pdf user units;;d31,1942;;b0,0;;msize;;p">
+</treenode>
+<treenode node="getFontHeight;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1928;1;1935;;;;vpos;;v;;r
+Definition
+    getFontHeight($size)
+
+Description
+     return the height in units of the current font in the given size;;d29,1928;;b0,0;;msize;;p">
+</treenode>
+<treenode node="getTextWidth;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2247;1;2292;;;;vpos;;v;;r
+Definition
+    getTextWidth($size,$text)
+
+Description
+     calculate how wide a given text string will be on a page, at a given size. this can be called externally, but is alse used by the other class functions;;d34,2247;;b0,0;;msize;;ptext;;p">
+</treenode>
+<treenode node="line;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1674;1;1676;;;;vpos;;v;;r
+Definition
+    line($x1,$y1,$x2,$y2)
+
+Description
+     draw a line from one set of coordinates to another;;d30,1674;;b0,0;;mx1;;py1;;px2;;py2;;p">
+</treenode>
+<treenode node="md5_16;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1085;1;1092;;;;vpos;;v;;r
+Definition
+    md5_16($string)
+
+Description
+     calculate the 16 byte version of the 128 bit md5 digest of the string;;d24,1085;;b0,0;;mstring;;p">
+</treenode>
+<treenode node="newDocument;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1266;1;1294;;;;vpos;;v;;r
+Definition
+    newDocument($pageSize=array(0,0,612,792))
+
+Description
+     intialize a new document if this is called on an existing document results may be unpredictable, but the existing document would be lost at minimum this function is called automatically by the constructor function;;d50,1266;;b0,0;;mpageSize;;p">
+</treenode>
+<treenode node="newPage;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1850;1;1892;;;;vpos;;v;;r
+Definition
+    newPage($insert=0,$id=0,$pos=&apos;after&apos;)
+
+Description
+     add a new page to the document this also makes the new page the current active object;;d46,1850;;b0,0;;minsert;;pid;;ppos;;p">
+</treenode>
+<treenode node="o_action;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;725;1;762;;;;vpos;;v;;r
+Definition
+    o_action($id,$action,$options=&apos;&apos;)
+
+Description
+     an action object, used to link to URLS initially;;d42,725;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_annotation;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;768;1;815;;;;vpos;;v;;r
+Definition
+    o_annotation($id,$action,$options=&apos;&apos;)
+
+Description
+     an annotation object, this will add an annotation to the current page. initially will support just link annotations;;d46,768;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_catalog;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;296;1;341;;;;vpos;;v;;r
+Definition
+    o_catalog($id,$action,$options=&apos;&apos;)
+
+Description
+     define the document catalog, the overall controller for the document;;d43,296;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_contents;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;889;1;934;;;;vpos;;v;;r
+Definition
+    o_contents($id,$action,$options=&apos;&apos;)
+
+Description
+     the contents objects hold all of the content which appears on pages;;d44,889;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_destination;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;223;1;253;;;;vpos;;v;;r
+Definition
+    o_destination($id,$action,$options=&apos;&apos;)
+
+Description
+     destination object, used to specify the location for the user to jump to, presently on opening;;d47,223;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_encryption;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1014;1;1075;;;;vpos;;v;;r
+Definition
+    o_encryption($id,$action,$options=&apos;&apos;)
+
+Description
+     encryption object.;;d46,1014;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_font;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;474;1;553;;;;vpos;;v;;r
+Definition
+    o_font($id,$action,$options=&apos;&apos;)
+
+Description
+     an object to hold the font description;;d40,474;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_fontDescriptor;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;558;1;604;;;;vpos;;v;;r
+Definition
+    o_fontDescriptor($id,$action,$options=&apos;&apos;)
+
+Description
+     a font descriptor, needed for including additional fonts;;d50,558;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_fontEncoding;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;609;1;641;;;;vpos;;v;;r
+Definition
+    o_fontEncoding($id,$action,$options=&apos;&apos;)
+
+Description
+     the font encoding;;d48,609;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_image;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;939;1;1009;;;;vpos;;v;;r
+Definition
+    o_image($id,$action,$options=&apos;&apos;)
+
+Description
+     an image object, will be an XObject in the document, includes description and data;;d41,939;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_info;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;681;1;720;;;;vpos;;v;;r
+Definition
+    o_info($id,$action,$options=&apos;&apos;)
+
+Description
+     define the document information;;d40,681;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_outlines;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;444;1;469;;;;vpos;;v;;r
+Definition
+    o_outlines($id,$action,$options=&apos;&apos;)
+
+Description
+     define the outlines in the doc, empty for now;;d44,444;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_page;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;820;1;884;;;;vpos;;v;;r
+Definition
+    o_page($id,$action,$options=&apos;&apos;)
+
+Description
+     a page object, it also creates a contents object to hold its contents;;d40,820;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_pages;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;346;1;439;;;;vpos;;v;;r
+Definition
+    o_pages($id,$action,$options=&apos;&apos;)
+
+Description
+     object which is a parent to the pages in the document;;d41,346;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_procset;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;646;1;676;;;;vpos;;v;;r
+Definition
+    o_procset($id,$action,$options=&apos;&apos;)
+
+Description
+     the document procset, solves some problems with printing to old PS printers;;d43,646;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="o_viewerPreferences;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;258;1;291;;;;vpos;;v;;r
+Definition
+    o_viewerPreferences($id,$action,$options=&apos;&apos;)
+
+Description
+     set the viewer preferences;;d53,258;;b0,0;;mid;;paction;;poptions;;p">
+</treenode>
+<treenode node="openFont;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1305;1;1406;;;;vpos;;v;;r
+Definition
+    openFont($font)
+
+Description
+     open the font file and return a php structure containing it. first check if this one has been done before and saved in a form more suited to php note that if a php serialized version does not exist it will try and make one, but will require write access to the directory to do it... it is MUCH faster to have these serialized files.;;d24,1305;;b0,0;;mfont;;p">
+</treenode>
+<treenode node="openHere;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2948;1;2963;;;;vpos;;v;;r
+Definition
+    openHere($style,$a=0,$b=0,$c=0)
+
+Description
+     specify where the document should open when it first starts;;d40,2948;;b0,0;;mstyle;;pa;;pb;;pc;;p">
+</treenode>
+<treenode node="openObject;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2489;1;2499;;;;vpos;;v;;r
+Definition
+    openObject()
+
+Description
+     make a loose object, the output will go into this object, until it is closed, then will revert to the current one. this object will not appear until it is included within a page. the function will return the object number;;d21,2489;;b0,0;;m">
+</treenode>
+<treenode node="output;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1219;1;1257;;;;vpos;;v;;r
+Definition
+    output($debug=0)
+
+Description
+     return the pdf stream as a string returned from the function;;d25,1219;;b0,0;;mdebug;;p">
+</treenode>
+<treenode node="partEllipse;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1691;1;1693;;;;vpos;;v;;r
+Definition
+    partEllipse($x0,$y0,$astart,$afinish,$r1,$r2=0,$angle=0,$nSeg=8)
+
+Description
+     draw a part of an ellipse;;d73,1691;;b0,0;;mx0;;py0;;pastart;;pafinish;;pr1;;pr2;;pangle;;pnSeg;;p">
+</treenode>
+<treenode node="polygon;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1817;1;1828;;;;vpos;;v;;r
+Definition
+    polygon($p,$np,$f=0)
+
+Description
+     draw a polygon, the syntax for this is similar to the GD polygon command;;d29,1817;;b0,0;;mp;;pnp;;pf;;p">
+</treenode>
+<treenode node="PRVT_getBytes;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2622;1;2630;;;;vpos;;v;;r
+Definition
+    PRVT_getBytes(&amp;$data,$pos,$num)
+
+Description
+     extract an integer from a position in a byte stream;;d40,2622;;b0,0;;mdata;;ppos;;pnum;;p">
+</treenode>
+<treenode node="PRVTadjustWrapText;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2299;1;2322;;;;vpos;;v;;r
+Definition
+    PRVTadjustWrapText($text,$actual,$width,&amp;$x,&amp;$adjust,$justification)
+
+Description
+     do a part of the calculation for sorting out the justification of the text;;d77,2299;;b0,0;;mtext;;pactual;;pwidth;;px;;padjust;;pjustification;;p">
+</treenode>
+<treenode node="PRVTcheckTextDirective;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1992;1;1996;;;;vpos;;v;;r
+Definition
+    PRVTcheckTextDirective(&amp;$text,$i,&amp;$f)
+
+Description
+     wrapper function for PRVTcheckTextDirective1;;d46,1992;;b0,0;;mtext;;pi;;pf;;p">
+</treenode>
+<treenode node="PRVTcheckTextDirective1;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2007;1;2150;;;;vpos;;v;;r
+Definition
+    PRVTcheckTextDirective1(&amp;$text,$i,&amp;$f,$final,&amp;$x,&amp;$y,$size=0,$angle=0,$wordSpaceAdjust=0)
+
+Description
+     checks if the text stream contains a control directive if so then makes some changes and returns the number of characters involved in the directive this has been re-worked to include everything neccesary to fins the current writing point, so that the location can be sent to the callback function if required if the directive does not require a font change, then $f should be set to 0;;d98,2007;;b0,0;;mtext;;pi;;pf;;pfinal;;px;;py;;psize;;pangle;;pwordSpaceAdjust;;p">
+</treenode>
+<treenode node="PRVTgetTextPosition;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1976;1;1985;;;;vpos;;v;;r
+Definition
+    PRVTgetTextPosition($x,$y,$angle,$size,$wa,$text)
+
+Description
+     given a start position and information about how text is to be laid out, calculate where on the page the text will end;;d58,1976;;b0,0;;mx;;py;;pangle;;psize;;pwa;;ptext;;p">
+</treenode>
+<treenode node="rectangle;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1842;1;1844;;;;vpos;;v;;r
+Definition
+    rectangle($x1,$y1,$width,$height)
+
+Description
+     draw a rectangle, note that it is the width and height of the rectangle which are the secondary paramaters, not the coordinates of the upper-right corner;;d42,1842;;b0,0;;mx1;;py1;;pwidth;;pheight;;p">
+</treenode>
+<treenode node="reopenObject;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2504;1;2512;;;;vpos;;v;;r
+Definition
+    reopenObject($id)
+
+Description
+     open an existing object for editing;;d26,2504;;b0,0;;mid;;p">
+</treenode>
+<treenode node="restoreState;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2470;1;2481;;;;vpos;;v;;r
+Definition
+    restoreState($pageEnd=0)
+
+Description
+     restore a previously saved state;;d33,2470;;b0,0;;mpageEnd;;p">
+</treenode>
+<treenode node="saveState;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2446;1;2465;;;;vpos;;v;;r
+Definition
+    saveState($pageEnd=0)
+
+Description
+     this will be called at a new page to return the state to what it was on the end of the previous page, before the stack was closed down This is to get around not being able to have open &apos;q&apos; across pages;;d30,2446;;b0,0;;mpageEnd;;p">
+</treenode>
+<treenode node="selectFont;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1416;1;1596;;;;vpos;;v;;r
+Definition
+    selectFont($fontName,$encoding=&apos;&apos;,$set=1)
+
+Description
+     if the font is not loaded then load it and make the required object else just make it the current font the encoding array can contain &apos;encoding&apos;=&gt; &apos;none&apos;,&apos;WinAnsiEncoding&apos;,&apos;MacRomanEncoding&apos; or &apos;MacExpertEncoding&apos; note that encoding=&apos;none&apos; will need to be used for symbolic fonts and &apos;differences&apos; =&gt; an array of mappings between numbers 0-&gt;255 and character names.;;d50,1416;;b0,0;;mfontName;;pencoding;;pset;;p">
+</treenode>
+<treenode node="setColor;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1654;1;1659;;;;vpos;;v;;r
+Definition
+    setColor($r,$g,$b,$force=0)
+
+Description
+     sets the colour for fill operations;;d36,1654;;b0,0;;mr;;pg;;pb;;pforce;;p">
+</treenode>
+<treenode node="setCurrentFont;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1610;1;1632;;;;vpos;;v;;r
+Definition
+    setCurrentFont()
+
+Description
+     sets up the current font, based on the font families, and the current text state note that this system is quite flexible, a &lt;b&gt;&lt;i&gt; font can be completely different to a &lt;i&gt;&lt;b&gt; font, and even &lt;b&gt;&lt;b&gt; will have to be defined within the family to have meaning This function is to be called whenever the currentTextState is changed, it will update the currentFont setting to whatever the appropriatte family one is. If the user calls selectFont themselves then that will reset the currentBaseFont, and the currentFont This function will change the currentFont to whatever it should be, but will not change the currentBaseFont.;;d25,1610;;b0,0;;m">
+</treenode>
+<treenode node="setEncryption;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1183;1;1208;;;;vpos;;v;;r
+Definition
+    setEncryption($userPass=&apos;&apos;,$ownerPass=&apos;&apos;,$pc=array())
+
+Description
+     set the encryption of the document can be used to turn it on and/or set the passwords which it will have. also the functions that the user will have are set here, such as print, modify, add;;d62,1183;;b0,0;;muserPass;;pownerPass;;ppc;;p">
+</treenode>
+<treenode node="setFontFamily;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2984;1;3016;;;;vpos;;v;;r
+Definition
+    setFontFamily($family,$options=&apos;&apos;)
+
+Description
+     define font families, this is used to initialize the font families for the default fonts and for the user to add new ones for their fonts. The default bahavious can be overridden should that be desired.;;d43,2984;;b0,0;;mfamily;;poptions;;p">
+</treenode>
+<treenode node="setLineStyle;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1788;1;1812;;;;vpos;;v;;r
+Definition
+    setLineStyle($width=1,$cap=&apos;&apos;,$join=&apos;&apos;,$dash=&apos;&apos;,$phase=0)
+
+Description
+     this sets the line drawing style. width, is the thickness of the line in user units cap is the type of cap to put on the line, values can be &apos;butt&apos;,&apos;round&apos;,&apos;square&apos; where the diffference between &apos;square&apos; and &apos;butt&apos; is that &apos;square&apos; projects a flat end past the end of the line. join can be &apos;miter&apos;, &apos;round&apos;, &apos;bevel&apos; dash is an array which sets the dash pattern, is a series of length values, which are the lengths of the on and off dashes. (2) represents 2 on, 2 off, 2 on , 2 off ... (2,1) is 2 on, 1 off, 2 on, 1 off.. etc phase is a modifier on the dash pattern which is used to shift the point at which the pattern starts.;;d66,1788;;b0,0;;mwidth;;pcap;;pjoin;;pdash;;pphase;;p">
+</treenode>
+<treenode node="setPreferences;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2606;1;2615;;;;vpos;;v;;r
+Definition
+    setPreferences($label,$value=0)
+
+Description
+     set the viewer preferences of the document, it is up to the browser to obey these.;;d40,2606;;b0,0;;mlabel;;pvalue;;p">
+</treenode>
+<treenode node="setStrokeColor;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1664;1;1669;;;;vpos;;v;;r
+Definition
+    setStrokeColor($r,$g,$b,$force=0)
+
+Description
+     sets the colour for stroke operations;;d42,1664;;b0,0;;mr;;pg;;pb;;pforce;;p">
+</treenode>
+<treenode node="stopObject;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;2532;1;2538;;;;vpos;;v;;r
+Definition
+    stopObject($id)
+
+Description
+     stop an object from appearing on pages from this point on;;d24,2532;;b0,0;;mid;;p">
+</treenode>
+<treenode node="stream;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;1898;1;1923;;;;vpos;;v;;r
+Definition
+    stream($options=&apos;&apos;)
+
+Description
+     output the pdf code, streaming it to the browser the relevant headers are set so that hopefully the browser will recognise it;;d28,1898;;b0,0;;moptions;;p">
+</treenode>
+<treenode node="transaction;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\class.pdf.php;f0;3028;1;3070;;;;vpos;;v;;r
+Definition
+    transaction($action)
+
+Description
+     a few functions which should allow the document to be treated transactionally.;;d29,3028;;b0,0;;maction;;p">
+</treenode>
+</treenode>
+<treenode node="CreateFolder;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\CreateFolder.php;f0;18;1;86;;;;vpos;;v;;r;;d19,18;;b0,0;;m">
+<treenode node="checkFolderName;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\CreateFolder.php;f1;34;2;44;;;;vpos;;v;;r;;d39,34;;b0,0;;mfolderName;;p">
+</treenode>
+<treenode node="CreateFolder;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\CreateFolder.php;f1;25;2;32;;;;vpos;;v;;r;;d50,25;;b0,0;;mfckphp_config;;ptype;;pcwd;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\CreateFolder.php;f1;46;2;85;;;;vpos;;v;;r;;d16,46;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="DeleteFile;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\DeleteFile.php;f0;18;1;59;;;;vpos;;v;;r;;d17,18;;b0,0;;m">
+<treenode node="DeleteFile;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\DeleteFile.php;f1;25;2;32;;;;vpos;;v;;r;;d48,25;;b0,0;;mfckphp_config;;ptype;;pcwd;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\DeleteFile.php;f1;34;2;58;;;;vpos;;v;;r;;d16,34;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="DeleteFolder;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\DeleteFolder.php;f0;18;1;73;;;;vpos;;v;;r;;d19,18;;b0,0;;m">
+<treenode node="delDir;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\DeleteFolder.php;f1;53;2;72;;;;vpos;;v;;r;;d23,53;;b0,0;;mdir;;p">
+</treenode>
+<treenode node="DeleteFolder;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\DeleteFolder.php;f1;25;2;32;;;;vpos;;v;;r;;d50,25;;b0,0;;mfckphp_config;;ptype;;pcwd;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\DeleteFolder.php;f1;34;2;50;;;;vpos;;v;;r;;d16,34;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="Files;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f0;20;1;212;;;;vpos;;v;;r
+Definition
+    class Files
+
+Description
+     File Utilities;;d0,21;;b0,0;;m">
+<treenode node="copyFile;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f1;34;2;71;;;;vpos;;vstring;;r
+Definition
+    copyFile($source, $destination_dir, $destination_file, $unique=true)
+
+Description
+     Copy a file from source to destination. If unique == true, then if the destination exists, it will be renamed by appending an increamenting counting number.
+
+Parameters:
+    string $source - where the file is from, full path to the files required
+    string $destination_file - name of the new file, just the filename
+    string $destination_dir - where the files, just the destination dir,
+    boolean $unique - create unique destination file if true
+
+Return:
+   the new copied filename, else error if anything goes bad;;d1,35;;b0,0;;mstring $source;;pstring $destination_file;;pstring $destination_dir;;pboolean $unique;;p">
+</treenode>
+<treenode node="createFolder;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f1;78;2;82;;;;vpos;;vboolean;;r
+Definition
+    createFolder($newFolder)
+
+Description
+     Create a new folder.
+
+Parameters:
+    string $newFolder - specifiy the full path of the new folder
+
+Return:
+   true if the new folder is created, false otherwise;;d1,79;;b0,0;;mstring $newFolder;;p">
+</treenode>
+<treenode node="delFile;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f1;101;2;107;;;;vpos;;vboolean;;r
+Definition
+    delFile($file)
+
+Description
+     Delete a file.
+
+Parameters:
+    string $file - file to be deleted
+
+Return:
+   true if deleted, false otherwise;;d1,102;;b0,0;;mstring $file;;p">
+</treenode>
+<treenode node="delFolder;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f1;117;2;152;;;;vpos;;vboolean;;r
+Definition
+    delFolder($folder, $recursive=false)
+
+Description
+     Delete folder(s), can delete recursively.
+
+Parameters:
+    string $folder - the folder to be deleted
+    boolean $recursive - if true, all files and sub-directories
+
+Return:
+   true if deleted;;d1,118;;b0,0;;mstring $folder;;pboolean $recursive;;p">
+</treenode>
+<treenode node="escape;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f1;91;2;94;;;;vpos;;vstring;;r
+Definition
+    escape($filename)
+
+Description
+     Escape the filenames, any non-word characters will be replaced by an underscore.
+
+Parameters:
+    string $filename - the orginal filename
+
+Return:
+   the escaped safe filename;;d1,92;;b0,0;;mstring $filename;;p">
+</treenode>
+<treenode node="fixPath;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f1;159;2;165;;;;vpos;;vstring;;r
+Definition
+    fixPath($path)
+
+Description
+     Append a / to the path if required.
+
+Parameters:
+    string $path - the path
+
+Return:
+   path with trailing /;;d1,160;;b0,0;;mstring $path;;p">
+</treenode>
+<treenode node="formatSize;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f1;203;2;211;;;;vpos;;vstring;;r
+Definition
+    formatSize($size)
+
+Description
+     Format the file size, limits to Mb.
+
+Parameters:
+    int $size - the raw filesize
+
+Return:
+   formated file size;;d1,204;;b0,0;;mint $size;;p">
+</treenode>
+<treenode node="makeFile;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f1;188;2;195;;;;vpos;;vstring;;r
+Definition
+    makeFile($pathA, $pathB)
+
+Description
+     Similar to makePath, but the second parameter is not only a path, it may contain say a file ending.
+
+Parameters:
+    string $pathA - the leading path
+    string $pathB - the ending path with file
+
+Return:
+   combined file path;;d1,189;;b0,0;;mstring $pathA;;pstring $pathB;;p">
+</treenode>
+<treenode node="makePath;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Files.php;f1;173;2;179;;;;vpos;;vstring;;r
+Definition
+    makePath($pathA, $pathB)
+
+Description
+     Concat two paths together. Basically $pathA+$pathB
+
+Parameters:
+    string $pathA - path one
+    string $pathB - path two
+
+Return:
+   a trailing slash combinded path;;d1,174;;b0,0;;mstring $pathA;;pstring $pathB;;p">
+</treenode>
+</treenode>
+<treenode node="FileUpload;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\FileUpload.php;f0;19;1;243;;;;vpos;;v;;r;;d17,19;;b0,0;;m">
+<treenode node="cleanFilename;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\FileUpload.php;f1;34;2;42;;;;vpos;;v;;r;;d35,34;;b0,0;;mfilename;;p">
+</treenode>
+<treenode node="FileUpload;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\FileUpload.php;f1;26;2;32;;;;vpos;;v;;r;;d48,26;;b0,0;;mfckphp_config;;ptype;;pcwd;;p">
+</treenode>
+<treenode node="getDirSize;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\FileUpload.php;f1;223;2;242;;;;vpos;;v;;r;;d27,223;;b0,0;;mdir;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\FileUpload.php;f1;44;2;221;;;;vpos;;v;;r;;d16,44;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="GetFolders;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetFolders.php;f0;18;1;61;;;;vpos;;v;;r;;d17,18;;b0,0;;m">
+<treenode node="GetFolders;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetFolders.php;f1;24;2;30;;;;vpos;;v;;r;;d48,24;;b0,0;;mfckphp_config;;ptype;;pcwd;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetFolders.php;f1;32;2;60;;;;vpos;;v;;r;;d16,32;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="GetFoldersAndFiles;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetFoldersAndFiles.php;f0;19;1;147;;;;vpos;;v;;r;;d25,19;;b0,0;;m">
+<treenode node="GetFoldersAndFiles;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetFoldersAndFiles.php;f1;25;2;31;;;;vpos;;v;;r;;d56,25;;b0,0;;mfckphp_config;;ptype;;pcwd;;p">
+</treenode>
+<treenode node="isImageEditable;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetFoldersAndFiles.php;f1;117;2;144;;;;vpos;;v;;r;;d33,117;;b0,0;;mfile;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetFoldersAndFiles.php;f1;33;2;114;;;;vpos;;v;;r;;d16,33;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="GetUploadProgress;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetUploadProgress.php;f0;18;1;84;;;;vpos;;v;;r;;d24,18;;b0,0;;m">
+<treenode node="GetUploadProgress;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetUploadProgress.php;f1;25;2;34;;;;vpos;;v;;r;;d55,25;;b0,0;;mfckphp_config;;ptype;;pcwd;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\GetUploadProgress.php;f1;36;2;83;;;;vpos;;v;;r;;d16,36;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="Image_Transform;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f0;61;1;567;;;;vpos;;v;;r
+Definition
+    Class Image_Transform
+
+Description
+     The main &quot;Image_Resize&quot; class is a container and base class which provides the static methods for creating Image objects as well as some utility functions (maths) common to all parts of Image Resize.;;d0,62;;b0,0;;m">
+<treenode node="_get_image_details;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;256;5;303;;;;vpos;;vvoid;;r
+Definition
+    _get_image_details($image)
+
+Description
+     ;;d4,257;;b0,0;;mimage;;p">
+</treenode>
+<treenode node="_parse_size;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;317;5;330;;;;vpos;;vmixed;;r
+Definition
+    _parse_size($new_size, $old_size)
+
+Description
+     Parse input and convert If either is 0 it will be scaled proportionally
+
+Parameters:
+    mixed $new_size - (0, number, percentage 10% or 0
+    int $old_size
+
+Return:
+   none or PEAR_error;;d4,318;;b0,0;;mmixed $new_size;;pint $old_size;;p">
+</treenode>
+<treenode node="_resize;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;458;5;460;;;;vpos;;vPEAR_error;;r
+Definition
+    _resize()
+
+Description
+     Place holder for the real resize method used by extended methods to do the resizing;;d23,458;;b0,0;;m">
+</treenode>
+<treenode node="_set_img_x;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;386;5;389;;;;vpos;;v;;r
+Definition
+    _set_img_x($size)
+
+Description
+     Set the image width
+
+Parameters:
+    int $size - dimension to set;;d4,387;;b0,0;;mint $size;;p">
+</treenode>
+<treenode node="_set_img_y;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;397;5;400;;;;vpos;;v;;r
+Definition
+    _set_img_y($size)
+
+Description
+     Set the image height
+
+Parameters:
+    int $size - dimension to set;;d4,398;;b0,0;;mint $size;;p">
+</treenode>
+<treenode node="_set_new_x;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;408;5;411;;;;vpos;;v;;r
+Definition
+    _set_new_x($size)
+
+Description
+     Set the image width
+
+Parameters:
+    int $size - dimension to set;;d4,409;;b0,0;;mint $size;;p">
+</treenode>
+<treenode node="_set_new_y;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;419;5;422;;;;vpos;;v;;r
+Definition
+    _set_new_y($size)
+
+Description
+     Set the image height
+
+Parameters:
+    int $size - dimension to set;;d4,420;;b0,0;;mint $size;;p">
+</treenode>
+<treenode node="addBorder;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;548;5;551;;;;vpos;;v;;r;;d4,549;;b0,0;;m">
+</treenode>
+<treenode node="addDropShadow;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;543;5;546;;;;vpos;;v;;r;;d4,544;;b0,0;;m">
+</treenode>
+<treenode node="addText;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;538;5;541;;;;vpos;;v;;r;;d4,539;;b0,0;;m">
+</treenode>
+<treenode node="cleanUp;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;339;5;361;;;;vpos;;v;;r;;d4,340;;b0,0;;mid;;pdir;;p">
+</treenode>
+<treenode node="colorarray2colorhex;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;531;5;534;;;;vpos;;vPEAR_error;;r
+Definition
+    colorarray2colorhex($color)
+
+Description
+     Reverse of rgb2colorname.;;d41,531;;b0,0;;mcolor;;p">
+</treenode>
+<treenode node="colorhex2colorarray;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;516;5;521;;;;vpos;;vPEAR_error;;r
+Definition
+    colorhex2colorarray($colorhex)
+
+Description
+     Reverse of rgb2colorname.;;d44,516;;b0,0;;mcolorhex;;p">
+</treenode>
+<treenode node="createUnique;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;364;5;377;;;;vpos;;v;;r;;d4,365;;b0,0;;mdir;;p">
+</treenode>
+<treenode node="crop;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;553;5;556;;;;vpos;;v;;r;;d4,554;;b0,0;;m">
+</treenode>
+<treenode node="display;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;481;5;483;;;;vpos;;vPEAR_error;;r
+Definition
+    display($type, $quality)
+
+Description
+     Place holder for the real display method used by extended methods to do the resizing
+
+Parameters:
+    string - filename;;d38,481;;b0,0;;mtype;;pquality;;p">
+</treenode>
+<treenode node="factory;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;121;5;134;;;;vpos;;vmixed;;r
+Definition
+    &amp;factory($driver)
+
+Description
+     Create a new Image_resize object
+
+Parameters:
+    string $driver - name of driver class to initialize
+
+Return:
+   a newly created Image_Transform object, or a PEAR;;d4,122;;b0,0;;mstring $driver;;p">
+</treenode>
+<treenode node="flip;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;558;5;561;;;;vpos;;v;;r;;d4,559;;b0,0;;m">
+</treenode>
+<treenode node="free;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;504;5;506;;;;vpos;;vPEAR_error;;r
+Definition
+    free()
+
+Description
+     Place holder for the real free method used by extended methods to do the resizing;;d20,504;;b0,0;;m">
+</treenode>
+<treenode node="gamma;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;563;5;566;;;;vpos;;v;;r;;d4,564;;b0,0;;m">
+</treenode>
+<treenode node="getImageType;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;429;5;432;;;;vpos;;vstring;;r
+Definition
+    getImageType()
+
+Description
+     Get the type of the image being manipulated
+
+Return:
+   $this-&gt;type the image type;;d4,430;;b0,0;;m">
+</treenode>
+<treenode node="getWebSafeFormat;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;439;5;449;;;;vpos;;vstring;;r
+Definition
+    getWebSafeFormat()
+
+Description
+     
+
+Return:
+   web-safe image type;;d4,440;;b0,0;;m">
+</treenode>
+<treenode node="load;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;469;5;471;;;;vpos;;vPEAR_error;;r
+Definition
+    load($filename)
+
+Description
+     Place holder for the real load method used by extended methods to do the resizing;;d29,469;;b0,0;;mfilename;;p">
+</treenode>
+<treenode node="resize;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;148;5;155;;;;vpos;;vmixed;;r
+Definition
+    resize($new_x = 0, $new_y = 0)
+
+Description
+     Resize the Image in the X and/or Y direction If either is 0 it will be scaled proportionally
+
+Parameters:
+    mixed $new_x - (0, number, percentage 10% or 0
+    mixed $new_y - (0, number, percentage 10% or 0
+
+Return:
+   none or PEAR_error;;d4,149;;b0,0;;mmixed $new_x;;pmixed $new_y;;p">
+</treenode>
+<treenode node="save;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;493;5;495;;;;vpos;;vPEAR_error;;r
+Definition
+    save($filename, $type, $quality)
+
+Description
+     Place holder for the real save method used by extended methods to do the resizing
+
+Parameters:
+    string - filename;;d46,493;;b0,0;;mfilename;;ptype;;pquality;;p">
+</treenode>
+<treenode node="scale;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;190;5;199;;;;vpos;;vmixed;;r
+Definition
+    scale($size)
+
+Description
+     Scale Image to a maximum or percentage
+
+Parameters:
+    mixed - (number, percentage 10% or 0
+
+Return:
+   none or PEAR_error;;d4,191;;b0,0;;mmixed;;p">
+</treenode>
+<treenode node="scaleByFactor;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;224;5;229;;;;vpos;;vnone;;r
+Definition
+    scaleByFactor($size)
+
+Description
+     Scales an image to a factor of its original size.  For example, if my image was 640x480 and I called scaleByFactor(0.5) then the image would be resized to 320x240.
+
+Parameters:
+    float $size - Factor of original size to scale to;;d4,225;;b0,0;;mfloat $size;;p">
+</treenode>
+<treenode node="scaleByLength;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;238;5;248;;;;vpos;;vnone;;r
+Definition
+    scaleByLength($size)
+
+Description
+     Scales an image so that the longest side has this dimension.
+
+Parameters:
+    int $size - Max dimension in pixels;;d4,239;;b0,0;;mint $size;;p">
+</treenode>
+<treenode node="scaleByPercentage;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;210;5;213;;;;vpos;;vnone;;r
+Definition
+    scaleByPercentage($size)
+
+Description
+     Scales an image to a percentage of its original size.  For example, if my image was 640x480 and I called scaleByPercentage(10) then the image would be resized to 64x48
+
+Parameters:
+    int $size - Percentage of original size to scale to;;d4,211;;b0,0;;mint $size;;p">
+</treenode>
+<treenode node="scaleMaxX;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;164;5;168;;;;vpos;;vnone;;r
+Definition
+    scaleMaxX($new_x)
+
+Description
+     Scale the image to have the max x dimension specified.
+
+Parameters:
+    int $new_x - Size to scale X-dimension to;;d4,165;;b0,0;;mint $new_x;;p">
+</treenode>
+<treenode node="scaleMaxY;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;177;5;181;;;;vpos;;vnone;;r
+Definition
+    scaleMaxY($new_y)
+
+Description
+     Scale the image to have the max y dimension specified.
+
+Parameters:
+    int $new_y - Size to scale Y-dimension to;;d4,178;;b0,0;;mint $new_y;;p">
+</treenode>
+<treenode node="uniqueStr;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Transform.php;f4;333;5;336;;;;vpos;;v;;r;;d4,334;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="Image_Transform_Driver_GD;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f0;46;1;506;;;;vpos;;vImage_Transform;;c;;r;;d0,47;;b0,0;;m">
+<treenode node="_resize;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f4;345;5;366;;;;vpos;;vtrue;;r
+Definition
+    _resize($new_x, $new_y)
+
+Description
+     Resize Action
+
+Parameters:
+     $new_x - int  new width
+     $new_y - int  new height
+
+Return:
+   on success or pear error;;d37,345;;b0,0;;m $new_x;;p $new_y;;p">
+</treenode>
+<treenode node="addText;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f4;108;5;140;;;;vpos;;vnone;;r
+Definition
+    addText($params)
+
+Description
+     addText
+
+Parameters:
+    array - options     Array contains options;;d4,109;;b0,0;;marray;;p">
+</treenode>
+<treenode node="crop;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f4;376;5;395;;;;vpos;;v;;r
+Definition
+    crop($new_x, $new_y, $new_width, $new_height)
+
+Description
+     Crop the image
+
+Parameters:
+    int $crop_x - left column of the image
+    int $crop_y - top row of the image
+    int $crop_width - new cropped image width
+    int $crop_height - new cropped image height;;d4,377;;b0,0;;mint $crop_x;;pint $crop_y;;pint $crop_width;;pint $crop_height;;p">
+</treenode>
+<treenode node="display;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f4;477;5;492;;;;vpos;;vnone;;r
+Definition
+    display($type = &apos;&apos;, $quality = 75)
+
+Description
+     Display image without saving and lose changes
+
+Parameters:
+    string - type (JPG,PNG
+    int - quality 75;;d4,478;;b0,0;;mstring;;pint;;p">
+</treenode>
+<treenode node="flip;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f4;402;5;427;;;;vpos;;v;;r
+Definition
+    flip($horizontal)
+
+Description
+     Flip the image horizontally or vertically
+
+Parameters:
+    boolean $horizontal - true if horizontal flip, vertical otherwise;;d4,403;;b0,0;;mboolean $horizontal;;p">
+</treenode>
+<treenode node="free;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f4;499;5;504;;;;vpos;;vnone;;r
+Definition
+    free()
+
+Description
+     Destroy image handle;;d4,500;;b0,0;;m">
+</treenode>
+<treenode node="gamma;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f4;437;5;439;;;;vpos;;vnone;;r
+Definition
+    gamma($outputgamma=1.0)
+
+Description
+     Adjust the image gamma
+
+Parameters:
+    float $outputgamma;;d37,437;;b0,0;;mfloat $outputgamma;;p">
+</treenode>
+<treenode node="Image_Transform_GD;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f4;65;5;68;;;;vpos;;vmixed;;r
+Definition
+    Image_Transform_GD()
+
+Description
+     Check settings
+
+Return:
+   true or  or a PEAR error object on error;;d4,66;;b0,0;;m">
+</treenode>
+<treenode node="load;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f4;78;5;88;;;;vpos;;vmixed;;r
+Definition
+    load($image)
+
+Description
+     Load image
+
+Parameters:
+    string - filename
+
+Return:
+   none or a PEAR error object on error;;d4,79;;b0,0;;mstring;;p">
+</treenode>
+<treenode node="rotate;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f4;156;5;329;;;;vpos;;vmixed;;r
+Definition
+    rotate($angle, $options=null)
+
+Description
+     Rotate image by the given angle Uses a fast rotation algorythm for custom angles or lines copy for multiple of 90 degrees
+
+Parameters:
+    int $angle - Rotation angle
+    array $options - array(  &apos;autoresize&apos;=&gt;true|false,
+
+Return:
+   none or a PEAR error object on error;;d4,157;;b0,0;;mint $angle;;parray $options;;p">
+</treenode>
+<treenode node="save;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\GD.php;f4;451;5;466;;;;vpos;;vnone;;r
+Definition
+    save($filename, $type = &apos;&apos;, $quality = 85)
+
+Description
+     Save the image file
+
+Parameters:
+     $filename - string  the name of the file to write to
+     $quality - int     output DPI, default is 85
+     $types - string  define the output format, default;;d4,452;;b0,0;;m $filename;;p $quality;;p $types;;p">
+</treenode>
+</treenode>
+<treenode node="Image_Transform_Driver_IM;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f0;34;1;232;;;;vpos;;vImage_Transform;;c;;r;;d0,35;;b0,0;;m">
+<treenode node="_resize;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f4;79;5;88;;;;vpos;;vnone;;r
+Definition
+    _resize($new_x, $new_y)
+
+Description
+     Resize Action
+
+Parameters:
+    int - new_x   new width
+    int - new_y   new height;;d4,80;;b0,0;;mint;;pint;;p">
+</treenode>
+<treenode node="addText;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f4;148;5;168;;;;vpos;;vnone;;r
+Definition
+    addText($params)
+
+Description
+     addText
+
+Parameters:
+    array - options     Array contains options;;d4,149;;b0,0;;marray;;p">
+</treenode>
+<treenode node="crop;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f4;98;5;101;;;;vpos;;v;;r
+Definition
+    crop($crop_x, $crop_y, $crop_width, $crop_height)
+
+Description
+     Crop the image
+
+Parameters:
+    int $crop_x - left column of the image
+    int $crop_y - top row of the image
+    int $crop_width - new cropped image width
+    int $crop_height - new cropped image height;;d4,99;;b0,0;;mint $crop_x;;pint $crop_y;;pint $crop_width;;pint $crop_height;;p">
+</treenode>
+<treenode node="display;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f4;210;5;219;;;;vpos;;vnone;;r
+Definition
+    display($type = &apos;&apos;, $quality = 75)
+
+Description
+     Display image without saving and lose changes
+
+Parameters:
+    string - type (JPG,PNG
+    int - quality 75;;d4,211;;b0,0;;mstring;;pint;;p">
+</treenode>
+<treenode node="flip;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f4;108;5;114;;;;vpos;;v;;r
+Definition
+    flip($horizontal)
+
+Description
+     Flip the image horizontally or vertically
+
+Parameters:
+    boolean $horizontal - true if horizontal flip, vertical otherwise;;d4,109;;b0,0;;mboolean $horizontal;;p">
+</treenode>
+<treenode node="free;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f4;227;5;230;;;;vpos;;vnone;;r
+Definition
+    free()
+
+Description
+     Destroy image handle;;d4,228;;b0,0;;m">
+</treenode>
+<treenode node="gamma;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f4;177;5;179;;;;vpos;;vnone;;r
+Definition
+    gamma($outputgamma=1.0)
+
+Description
+     Adjust the image gamma
+
+Parameters:
+    float $outputgamma;;d37,177;;b0,0;;mfloat $outputgamma;;p">
+</treenode>
+<treenode node="Image_Transform_Driver_IM;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f4;46;5;49;;;;vpos;;v;;r
+Definition
+    Image_Transform_Driver_IM()
+
+Description
+     ;;d4,47;;b0,0;;m">
+</treenode>
+<treenode node="load;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f4;59;5;68;;;;vpos;;vmixed;;r
+Definition
+    load($image)
+
+Description
+     Load image
+
+Parameters:
+    string - filename
+
+Return:
+   none or a PEAR error object on error;;d4,60;;b0,0;;mstring;;p">
+</treenode>
+<treenode node="rotate;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f4;122;5;128;;;;vpos;;v;;r
+Definition
+    rotate($angle, $options=null)
+
+Description
+     rotate
+
+Parameters:
+    int - angle   rotation angle
+    array - options no option allowed;;d4,123;;b0,0;;mint;;parray;;p">
+</treenode>
+<treenode node="save;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\IM.php;f4;190;5;200;;;;vpos;;vnone;;r
+Definition
+    save($filename, $type=&apos;&apos;, $quality = 85)
+
+Description
+     Save the image file
+
+Parameters:
+     $filename - string  the name of the file to write to
+     $quality - quality image dpi, default=75
+     $type - string  (JPG,PNG;;d4,191;;b0,0;;m $filename;;p $quality;;p $type;;p">
+</treenode>
+</treenode>
+<treenode node="Image_Transform_Driver_NetPBM;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f0;32;1;255;;;;vpos;;vImage_Transform;;c;;r;;d0,33;;b0,0;;m">
+<treenode node="_postProcess;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f4;179;5;202;;;;vpos;;v;;r;;d4,180;;b0,0;;mtype;;pquality;;psave_type;;p">
+</treenode>
+<treenode node="_resize;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f4;72;5;82;;;;vpos;;vnone;;r
+Definition
+    _resize($new_x, $new_y)
+
+Description
+     Resizes the image;;d4,73;;b0,0;;mnew_x;;pnew_y;;p">
+</treenode>
+<treenode node="addText;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f4;162;5;177;;;;vpos;;vnone;;r
+Definition
+    addText($params)
+
+Description
+     adds text to an image
+
+Parameters:
+    array - options     Array contains options;;d4,163;;b0,0;;marray;;p">
+</treenode>
+<treenode node="crop;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f4;92;5;96;;;;vpos;;v;;r
+Definition
+    crop($crop_x, $crop_y, $crop_width, $crop_height)
+
+Description
+     Crop the image
+
+Parameters:
+    int $crop_x - left column of the image
+    int $crop_y - top row of the image
+    int $crop_width - new cropped image width
+    int $crop_height - new cropped image height;;d4,93;;b0,0;;mint $crop_x;;pint $crop_y;;pint $crop_width;;pint $crop_height;;p">
+</treenode>
+<treenode node="display;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f4;234;5;241;;;;vpos;;vnone;;r
+Definition
+    display($type = null, $quality = 75)
+
+Description
+     Display image without saving and lose changes
+
+Parameters:
+    string $type - (jpeg,png
+    int $quality - 75;;d4,235;;b0,0;;mstring $type;;pint $quality;;p">
+</treenode>
+<treenode node="flip;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f4;126;5;132;;;;vpos;;v;;r
+Definition
+    flip($horizontal)
+
+Description
+     Flip the image horizontally or vertically
+
+Parameters:
+    boolean $horizontal - true if horizontal flip, vertical otherwise;;d4,127;;b0,0;;mboolean $horizontal;;p">
+</treenode>
+<treenode node="free;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f4;248;5;252;;;;vpos;;vnone;;r
+Definition
+    free()
+
+Description
+     Destroy image handle;;d4,249;;b0,0;;m">
+</treenode>
+<treenode node="gamma;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f4;141;5;143;;;;vpos;;vnone;;r
+Definition
+    gamma($outputgamma = 1.0)
+
+Description
+     Adjust the image gamma
+
+Parameters:
+    float $outputgamma;;d39,141;;b0,0;;mfloat $outputgamma;;p">
+</treenode>
+<treenode node="Image_Transform_Driver_NetPBM;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f4;44;5;49;;;;vpos;;v;;r
+Definition
+    Image_Transform_Driver_NetPBM()
+
+Description
+     Class Constructor;;d4,45;;b0,0;;m">
+</treenode>
+<treenode node="load;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f4;59;5;64;;;;vpos;;vmixed;;r
+Definition
+    load($image)
+
+Description
+     Load image
+
+Parameters:
+    string - filename
+
+Return:
+   none or a PEAR error object on error;;d4,60;;b0,0;;mstring;;p">
+</treenode>
+<treenode node="rotate;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f4;103;5;119;;;;vpos;;v;;r
+Definition
+    rotate($angle)
+
+Description
+     Rotates the image
+
+Parameters:
+    int $angle - The angle to rotate the image through;;d4,104;;b0,0;;mint $angle;;p">
+</treenode>
+<treenode node="save;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\NetPBM.php;f4;212;5;224;;;;vpos;;vnone;;r
+Definition
+    save($filename, $type=null, $quality = 85)
+
+Description
+     Save the image file
+
+Parameters:
+     $filename - string the name of the file to write to
+    string $type - (jpeg,png
+    int $quality - 75;;d4,213;;b0,0;;m $filename;;pstring $type;;pint $quality;;p">
+</treenode>
+</treenode>
+<treenode node="ImageEditor;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f0;17;1;442;;;;vpos;;v;;r
+Definition
+    class ImageEditor
+
+Description
+     Handles the basic image editing capbabilities.;;d0,18;;b0,0;;m">
+<treenode node="cleanUp;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;340;2;370;;;;vpos;;v;;r
+Definition
+    cleanUp($path,$file)
+
+Description
+     Delete any tmp image files.
+
+Parameters:
+    string $path - the full path;;d1,341;;b0,0;;mpath;;pfile;;p">
+</treenode>
+<treenode node="createUnique;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;316;2;333;;;;vpos;;vstring;;r
+Definition
+    createUnique($file)
+
+Description
+     Create unique tmp image file name. The filename is based on the tmp file prefix specified in config.inc.php plus the UID (basically a md5 of the remote IP) and some random 6 character string. This function also calls to clean up the tmp files.
+
+Parameters:
+    string $file - the fullpath to a file
+
+Return:
+   a unique filename for that path;;d1,317;;b0,0;;mstring $file;;p">
+</treenode>
+<treenode node="getAction;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;287;2;293;;;;vpos;;vstring;;r
+Definition
+    getAction()
+
+Description
+     Get the action GET parameter
+
+Return:
+   action parameter;;d1,288;;b0,0;;m">
+</treenode>
+<treenode node="getDefaultSaveFile;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;218;2;226;;;;vpos;;vstring;;r
+Definition
+    getDefaultSaveFile()
+
+Description
+     Get the default save file name, used by editor.php.
+
+Return:
+   a suggestive filename, this should be unique;;d1,219;;b0,0;;m">
+</treenode>
+<treenode node="getImageType;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;378;2;398;;;;vpos;;vstring;;r
+Definition
+    getImageType($file)
+
+Description
+     Get the image type base on an image file.
+
+Parameters:
+    string $file - the full path to the image file
+
+Return:
+   of either &apos;gif&apos;, &apos;jpeg&apos;, &apos;png&apos; or &apos;bmp&apos;;;d1,379;;b0,0;;mstring $file;;p">
+</treenode>
+<treenode node="getSaveFileName;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;192;2;212;;;;vpos;;vstring;;r
+Definition
+    getSaveFileName($type)
+
+Description
+     Get the file name base on the save name and the save type.
+
+Parameters:
+    string $type - image type, &apos;jpeg&apos;, &apos;png&apos;, or &apos;gif&apos;
+
+Return:
+   the filename according to save type;;d1,193;;b0,0;;mstring $type;;p">
+</treenode>
+<treenode node="getUniqueFilename;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;234;2;263;;;;vpos;;vstring;;r
+Definition
+    getUniqueFilename($relative)
+
+Description
+     Get a unique filename. If the file exists, the filename base is appended with an increasing integer.
+
+Parameters:
+    string $relative - the relative filename to the base_dir
+
+Return:
+   a unique filename in the current path;;d1,235;;b0,0;;mstring $relative;;p">
+</treenode>
+<treenode node="ImageEditor;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;46;2;50;;;;vpos;;v;;r
+Definition
+    ImageEditor($manager)
+
+Description
+     Create a new ImageEditor instance. Editing requires a tmp file, which is saved in the current directory where the image is edited. The tmp file is assigned by md5 hash of the user IP address. This hashed is used as an ID for cleaning up the tmp files. In addition, any tmp files older than the the specified period will be deleted.
+
+Parameters:
+    ImageManager $manager - the image manager, we need this;;d1,47;;b0,0;;mImageManager $manager;;p">
+</treenode>
+<treenode node="isFileSaved;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;57;2;60;;;;vpos;;vint;;r
+Definition
+    isFileSaved()
+
+Description
+     Did we save a file?
+
+Return:
+   1 if the file was saved sucessfully,;;d1,58;;b0,0;;m">
+</treenode>
+<treenode node="isGDEditable;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;405;2;425;;;;vpos;;vint;;r
+Definition
+    isGDEditable()
+
+Description
+     Check if the specified image can be edit by GD mainly to check that GD can read and save GIFs
+
+Return:
+   0 if it is not a GIF file, 1 is GIF is editable, -1 if not editable;;d1,406;;b0,0;;m">
+</treenode>
+<treenode node="isGDGIFAble;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;431;2;441;;;;vpos;;vint;;r
+Definition
+    isGDGIFAble()
+
+Description
+     Check if GIF can be edit by GD.
+
+Return:
+   0 if it is not using the GD library, 1 is GIF is editable, -1 if not editable;;d1,432;;b0,0;;m">
+</treenode>
+<treenode node="makeRelative;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;273;2;281;;;;vpos;;vstring;;r
+Definition
+    makeRelative($pathA, $file)
+
+Description
+     Specifiy the original relative path, a new filename and return the new filename with relative path. i.e. $pathA (-filename) + $file
+
+Parameters:
+    string $pathA - the relative file
+    string $file - the new filename
+
+Return:
+   relative path with the new filename;;d1,274;;b0,0;;mstring $pathA;;pstring $file;;p">
+</treenode>
+<treenode node="processAction;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;112;2;184;;;;vpos;;varray;;r
+Definition
+    processAction($action, $relative, $fullpath)
+
+Description
+     Process the actions, crop, scale(resize), rotate, flip, and save. When ever an action is performed, the result is save into a temporary image file, see createUnique on the filename specs. It does not return the saved file, alway returning the tmp file.
+
+Parameters:
+    string $action - , should be &apos;crop&apos;, &apos;scale&apos;, &apos;rotate&apos;,&apos;flip&apos;, or &apos;save&apos;
+    string $relative - the relative image filename
+    string $fullpath - the fullpath to the image file
+
+Return:
+   with image information;;d1,113;;b0,0;;mstring $action;;pstring $relative;;pstring $fullpath;;p">
+</treenode>
+<treenode node="processImage;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f1;68;2;98;;;;vpos;;varray;;r
+Definition
+    processImage()
+
+Description
+     Process the image, if not action, just display the image.
+
+Return:
+   with image information, empty array if not an image;;d1,69;;b0,0;;m">
+</treenode>
+<treenode node="uniqueStr;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageEditor.php;f4;300;5;303;;;;vpos;;vstring;;r
+Definition
+    uniqueStr()
+
+Description
+     Generate a unique string based on md5(microtime()). Well not so uniqe, as it is limited to 6 characters
+
+Return:
+   unique string;;d4,301;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="ImageManager;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f0;15;1;674;;;;vpos;;v;;r
+Definition
+    class ImageManager
+
+Description
+     ImageManager Class.;;d0,16;;b0,0;;m">
+<treenode node="_checkGDLibrary;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;651;2;673;;;;vpos;;vboolean;;r
+Definition
+    _checkGDLibrary($method)
+
+Description
+     Check the GD library functionality.
+
+Parameters:
+    string $library - the graphics library, GD, NetPBM, or IM
+
+Return:
+   true if able, false otherwise;;d1,652;;b0,0;;mstring $library;;p">
+</treenode>
+<treenode node="_checkIMLibrary;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;637;2;644;;;;vpos;;v;;r;;d1,638;;b0,0;;mmethod;;p">
+</treenode>
+<treenode node="_delDir;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;583;2;590;;;;vpos;;vboolean;;r
+Definition
+    _delDir($relative)
+
+Description
+     Delete directories recursively.
+
+Parameters:
+    string $relative - the relative path to be deleted
+
+Return:
+   true if deleted, false otherwise;;d1,584;;b0,0;;mstring $relative;;p">
+</treenode>
+<treenode node="_delFile;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;559;2;576;;;;vpos;;vboolean;;r
+Definition
+    _delFile($relative)
+
+Description
+     Delete the relative file, and any thumbnails.
+
+Parameters:
+    string $relative - the relative file
+
+Return:
+   true if deleted, false otherwise;;d1,560;;b0,0;;mstring $relative;;p">
+</treenode>
+<treenode node="_dirs;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;95;2;122;;;;vpos;;varray;;r
+Definition
+    _dirs($base, $path)
+
+Description
+     Recursively travese the directories to get a list of accessable directories.
+
+Parameters:
+    string $base - the full path to the current directory
+    string $path - the relative path name
+
+Return:
+   of accessiable sub-directories;;d1,96;;b0,0;;mstring $base;;pstring $path;;p">
+</treenode>
+<treenode node="_processFiles;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;398;2;442;;;;vpos;;vboolean;;r
+Definition
+    _processFiles($relative, $file)
+
+Description
+     Process upload files. The file must be an uploaded file. If &apos;validate_images&apos; is set to true, only images will be processed. Any duplicate file will be renamed. See Files::copyFile for details on renaming.
+
+Parameters:
+    string $relative - the relative path where the file
+    array $file - the uploaded file from $_FILES
+
+Return:
+   true if the file was processed successfully,;;d1,399;;b0,0;;mstring $relative;;parray $file;;p">
+</treenode>
+<treenode node="countFiles;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;190;2;212;;;;vpos;;v;;r
+Definition
+    countFiles($path)
+
+Description
+     Count the number of files and directories in a given folder minus the thumbnail folders and thumbnails.;;d1,191;;b0,0;;mpath;;p">
+</treenode>
+<treenode node="deleteDirs;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;546;2;552;;;;vpos;;vboolean;;r
+Definition
+    deleteDirs()
+
+Description
+     Delete and specified directories.
+
+Return:
+   true if delete, false otherwise;;d1,547;;b0,0;;m">
+</treenode>
+<treenode node="deleteFiles;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;536;2;540;;;;vpos;;vboolean;;r
+Definition
+    deleteFiles()
+
+Description
+     Delete and specified files.
+
+Return:
+   true if delete, false otherwise;;d1,537;;b0,0;;m">
+</treenode>
+<treenode node="getBaseDir;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;40;2;43;;;;vpos;;vstring;;r
+Definition
+    getBaseDir()
+
+Description
+     Get the base directory.
+
+Return:
+   base dir, see config;;d1,41;;b0,0;;m">
+</treenode>
+<treenode node="getBaseURL;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;49;2;52;;;;vpos;;vstring;;r
+Definition
+    getBaseURL()
+
+Description
+     Get the base URL.
+
+Return:
+   base url, see config;;d1,50;;b0,0;;m">
+</treenode>
+<treenode node="getDefaultThumb;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;471;2;477;;;;vpos;;vstring;;r
+Definition
+    getDefaultThumb()
+
+Description
+     Get the default thumbnail.
+
+Return:
+   default thumbnail, empty string if;;d1,472;;b0,0;;m">
+</treenode>
+<treenode node="getDirs;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;76;2;85;;;;vpos;;varray;;r
+Definition
+    getDirs()
+
+Description
+     Get the sub directories in the base dir. Each array element contain the relative path (relative to the base dir) as key and the full path as value.
+
+Return:
+   of sub directries;;d1,77;;b0,0;;m">
+</treenode>
+<treenode node="getFiles;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;135;2;184;;;;vpos;;varray;;r
+Definition
+    getFiles($path)
+
+Description
+     Get all the files and directories of a relative path.
+
+Parameters:
+    string $path - relative path to be base path
+
+Return:
+   of file and path information;;d1,136;;b0,0;;mstring $path;;p">
+</treenode>
+<treenode node="getFileURL;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;451;2;454;;;;vpos;;vstring;;r
+Definition
+    getFileURL($relative)
+
+Description
+     Get the URL of the relative file. basically appends the relative file to the base_url given in config.inc.php
+
+Parameters:
+    string $relative - a file the relative to the base_dir
+
+Return:
+   the URL of the relative file;;d1,452;;b0,0;;mstring $relative;;p">
+</treenode>
+<treenode node="getFullPath;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;461;2;464;;;;vpos;;vstring;;r
+Definition
+    getFullPath($relative)
+
+Description
+     Get the fullpath to a relative file.
+
+Parameters:
+    string $relative - the relative file
+
+Return:
+   the full path, ;;d1,462;;b0,0;;mstring $relative;;p">
+</treenode>
+<treenode node="getImageInfo;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;220;2;223;;;;vpos;;varray;;r
+Definition
+    getImageInfo($file)
+
+Description
+     Get image size information.
+
+Parameters:
+    string $file - the image file
+
+Return:
+   of getImageSize information,;;d1,221;;b0,0;;mstring $file;;p">
+</treenode>
+<treenode node="getThumbnail;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;497;2;530;;;;vpos;;vstring;;r
+Definition
+    getThumbnail($relative)
+
+Description
+     Get the thumbnail url to be displayed. If the thumbnail exists, and it is up-to-date the thumbnail url will be returns. If the file is not an image, a default image will be returned. If it is an image file, and no thumbnail exists or the thumbnail is out-of-date (i.e. the thumbnail modified time is less than the original file) then a thumbs.php?img=filename.jpg is returned. The thumbs.php url will generate a new thumbnail on the fly. If the image is less than the dimensions of the thumbnails, the image will be display instead.
+
+Parameters:
+    string $relative - the relative image file
+
+Return:
+   the url of the thumbnail, be it;;d1,498;;b0,0;;mstring $relative;;p">
+</treenode>
+<treenode node="getThumbName;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;273;2;298;;;;vpos;;vstring;;r
+Definition
+    getThumbName($fullpathfile)
+
+Description
+     For a given image file, get the respective thumbnail filename no file existence check is done.
+
+Parameters:
+    string $fullpathfile - the full path to the image file
+
+Return:
+   of the thumbnail file;;d1,274;;b0,0;;mstring $fullpathfile;;p">
+</treenode>
+<treenode node="getThumbURL;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;307;2;332;;;;vpos;;vstring;;r
+Definition
+    getThumbURL($relative)
+
+Description
+     Similar to getThumbName, but returns the URL, base on the given base_url in config.inc.php
+
+Parameters:
+    string $relative - the relative image file name,
+
+Return:
+   the url of the thumbnail;;d1,308;;b0,0;;mstring $relative;;p">
+</treenode>
+<treenode node="getTmpPrefix;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;63;2;66;;;;vpos;;vstring;;r
+Definition
+    getTmpPrefix()
+
+Description
+     Get the tmp file prefix.
+
+Return:
+   tmp file prefix;;d1,64;;b0,0;;m">
+</treenode>
+<treenode node="ImageManager;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;31;2;34;;;;vpos;;v;;r
+Definition
+    ImageManager($config)
+
+Description
+     Constructor. Create a new Image Manager instance.
+
+Parameters:
+    array $config - configuration array, see config;;d1,32;;b0,0;;marray $config;;p">
+</treenode>
+<treenode node="isThumb;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;230;2;237;;;;vpos;;vtrue;;r
+Definition
+    isThumb($file)
+
+Description
+     Check if the file contains the thumbnail prefix.
+
+Parameters:
+    string $file - filename to be checked
+
+Return:
+   if the file contains the thumbnail prefix, false otherwise;;d1,231;;b0,0;;mstring $file;;p">
+</treenode>
+<treenode node="isThumbDir;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;244;2;251;;;;vpos;;vtrue;;r
+Definition
+    isThumbDir($entry)
+
+Description
+     Check if the given directory is a thumbnail directory.
+
+Parameters:
+    string $entry - directory name
+
+Return:
+   if it is a thumbnail directory, false otherwise;;d1,245;;b0,0;;mstring $entry;;p">
+</treenode>
+<treenode node="isTmpFile;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;258;2;265;;;;vpos;;vboolean;;r
+Definition
+    isTmpFile($file)
+
+Description
+     Check if the given file is a tmp file.
+
+Parameters:
+    string $file - file name
+
+Return:
+   true if it is a tmp file, false otherwise;;d1,259;;b0,0;;mstring $file;;p">
+</treenode>
+<treenode node="isValidBase;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;54;2;57;;;;vpos;;v;;r;;d1,55;;b0,0;;m">
+</treenode>
+<treenode node="processNewDir;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;597;2;613;;;;vpos;;vboolean;;r
+Definition
+    processNewDir()
+
+Description
+     Create new directories. If in safe_mode, nothing happens.
+
+Return:
+   true if created, false otherwise;;d1,598;;b0,0;;m">
+</treenode>
+<treenode node="processUploads;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;367;2;384;;;;vpos;;vnull;;r
+Definition
+    processUploads()
+
+Description
+     Process uploaded files, assumes the file is in $_FILES[&apos;upload&apos;] and $_POST[&apos;dir&apos;] is set. The dir must be relative to the base_dir and exists. If &apos;validate_images&apos; is set to true, only file with image dimensions will be accepted.;;d1,368;;b0,0;;m">
+</treenode>
+<treenode node="validGraphicMethods;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;621;2;635;;;;vpos;;vboolean;;r
+Definition
+    validGraphicMethods($library,$method)
+
+Description
+     Do some graphic library method checkings
+
+Parameters:
+    string $library - the graphics library, GD, NetPBM, or IM
+    string $method - the method to check
+
+Return:
+   true if able, false otherwise;;d1,622;;b0,0;;mstring $library;;pstring $method;;p">
+</treenode>
+<treenode node="validRelativePath;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\ImageManager.php;f1;340;2;357;;;;vpos;;vboolean;;r
+Definition
+    validRelativePath($path)
+
+Description
+     Check if the given path is part of the subdirectories under the base_dir.
+
+Parameters:
+    string $path - the relative path to be checked
+
+Return:
+   true if the path exists, false otherwise;;d1,341;;b0,0;;mstring $path;;p">
+</treenode>
+</treenode>
+<treenode node="Paging;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;2;1;64;;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;2;1;37;;;;vpos;;v;;r;;d12,2;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;4;1;13;;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;4;1;13;;;;vpos;;v;;r;;d27,4;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;16;1;19;;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;16;1;19;;;;vpos;;v;;r;;d40,16;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;22;1;63;;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;22;1;36;;;;vpos;;v;;r;;d48,22;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="Paging10;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;68;1;130;;;;vpos;;v;;r;;d14,68;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;70;1;79;;;;vpos;;v;;r;;d27,70;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;82;1;85;;;;vpos;;v;;r;;d40,82;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;88;1;129;;;;vpos;;v;;r;;d48,88;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="paging2;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;133;1;208;;;;vpos;;v;;r;;d13,133;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;135;1;144;;;;vpos;;v;;r;;d27,135;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;147;1;150;;;;vpos;;v;;r;;d40,147;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;153;1;207;;;;vpos;;v;;r;;d48,153;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="Paging2;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;41;1;76;;;;vpos;;v;;r;;d13,41;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;43;1;52;;;;vpos;;v;;r;;d27,43;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;55;1;58;;;;vpos;;v;;r;;d40,55;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;61;1;75;;;;vpos;;v;;r;;d48,61;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="paging3;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;212;1;287;;;;vpos;;v;;r;;d13,212;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;214;1;223;;;;vpos;;v;;r;;d27,214;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;226;1;229;;;;vpos;;v;;r;;d40,226;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;232;1;286;;;;vpos;;v;;r;;d48,232;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="Paging3;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;80;1;114;;;;vpos;;v;;r;;d13,80;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;82;1;91;;;;vpos;;v;;r;;d27,82;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;94;1;97;;;;vpos;;v;;r;;d40,94;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;100;1;113;;;;vpos;;v;;r;;d48,100;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="paging4;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;291;1;366;;;;vpos;;v;;r;;d13,291;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;293;1;302;;;;vpos;;v;;r;;d27,293;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;305;1;308;;;;vpos;;v;;r;;d40,305;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;311;1;365;;;;vpos;;v;;r;;d48,311;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="Paging4;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;118;1;153;;;;vpos;;v;;r;;d13,118;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;120;1;129;;;;vpos;;v;;r;;d27,120;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;132;1;135;;;;vpos;;v;;r;;d40,132;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;138;1;152;;;;vpos;;v;;r;;d48,138;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="paging5;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;370;1;445;;;;vpos;;v;;r;;d13,370;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;372;1;381;;;;vpos;;v;;r;;d27,372;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;384;1;387;;;;vpos;;v;;r;;d40,384;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;390;1;444;;;;vpos;;v;;r;;d48,390;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="Paging5;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;157;1;192;;;;vpos;;v;;r;;d13,157;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;159;1;168;;;;vpos;;v;;r;;d27,159;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;171;1;174;;;;vpos;;v;;r;;d40,171;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging.php;f0;177;1;191;;;;vpos;;v;;r;;d48,177;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="paging6;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;449;1;524;;;;vpos;;v;;r;;d13,449;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;451;1;460;;;;vpos;;v;;r;;d27,451;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;463;1;466;;;;vpos;;v;;r;;d40,463;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;469;1;523;;;;vpos;;v;;r;;d48,469;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="Paging7;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;527;1;561;;;;vpos;;v;;r;;d13,527;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;529;1;538;;;;vpos;;v;;r;;d27,529;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;541;1;544;;;;vpos;;v;;r;;d40,541;;b0,0;;mketemu2;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;547;1;560;;;;vpos;;v;;r;;d48,547;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="paging8;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;565;1;640;;;;vpos;;v;;r;;d13,565;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;567;1;576;;;;vpos;;v;;r;;d27,567;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;579;1;582;;;;vpos;;v;;r;;d40,579;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;585;1;639;;;;vpos;;v;;r;;d48,585;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="paging9;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;643;1;718;;;;vpos;;v;;r;;d13,643;;b0,0;;m">
+<treenode node="cariPosisi;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;645;1;654;;;;vpos;;v;;r;;d27,645;;b0,0;;mbatas;;p">
+</treenode>
+<treenode node="jumlahHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;657;1;660;;;;vpos;;v;;r;;d40,657;;b0,0;;mjmldata;;pbatas;;p">
+</treenode>
+<treenode node="navHalaman;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\class_paging2.php;f0;663;1;717;;;;vpos;;v;;r;;d48,663;;b0,0;;mhalaman_aktif;;pjmlhalaman;;p">
+</treenode>
+</treenode>
+<treenode node="RenameFile;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\RenameFile.php;f0;18;1;94;;;;vpos;;v;;r;;d17,18;;b0,0;;m">
+<treenode node="checkName;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\RenameFile.php;f1;35;2;41;;;;vpos;;v;;r;;d27,35;;b0,0;;mname;;p">
+</treenode>
+<treenode node="nameValid;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\RenameFile.php;f1;78;2;93;;;;vpos;;v;;r;;d28,78;;b0,0;;mfname;;p">
+</treenode>
+<treenode node="RenameFile;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\RenameFile.php;f1;25;2;33;;;;vpos;;v;;r;;d48,25;;b0,0;;mfckphp_config;;ptype;;pcwd;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\RenameFile.php;f1;43;2;76;;;;vpos;;v;;r;;d16,43;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="RenameFolder;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\RenameFolder.php;f0;18;1;68;;;;vpos;;v;;r;;d19,18;;b0,0;;m">
+<treenode node="checkName;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\RenameFolder.php;f1;35;2;41;;;;vpos;;v;;r;;d27,35;;b0,0;;mname;;p">
+</treenode>
+<treenode node="RenameFolder;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\RenameFolder.php;f1;25;2;33;;;;vpos;;v;;r;;d50,25;;b0,0;;mfckphp_config;;ptype;;pcwd;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\RenameFolder.php;f1;43;2;67;;;;vpos;;v;;r;;d16,43;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="Thumbnail;PHP:Class Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Thumbnail.php;f0;18;1;121;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f0;24;1;238;;;;vpos;;v;;r
+Definition
+    class Thumbnail
+
+Description
+     Thumbnail creation;;d0,19;;b0,0;;m">
+<treenode node="createThumbnail;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Thumbnail.php;f1;69;2;103;;;;vpos;;vboolean;;r
+Definition
+    createThumbnail($file, $thumbnail=null)
+
+Description
+     Create a thumbnail.
+
+Parameters:
+    string $file - the image for the thumbnail
+    string $thumbnail - if not null, the thumbnail will be saved
+
+Return:
+   true if thumbnail is created, false otherwise;;d1,70;;b0,0;;mstring $file;;pstring $thumbnail;;p">
+</treenode>
+<treenode node="free;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Thumbnail.php;f1;117;2;120;;;;vpos;;v;;r
+Definition
+    free()
+
+Description
+     Free up the graphic driver resources.;;d1,118;;b0,0;;m">
+</treenode>
+<treenode node="getExtension;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;183;2;189;;;;vpos;;v;;r;;d34,183;;b0,0;;mfilename;;p">
+</treenode>
+<treenode node="getMIME;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;102;2;113;;;;vpos;;v;;r;;d25,102;;b0,0;;mfile;;p">
+</treenode>
+<treenode node="image2MIME;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;115;2;138;;;;vpos;;v;;r;;d28,115;;b0,0;;mfile;;p">
+</treenode>
+<treenode node="isGIF;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;167;2;173;;;;vpos;;v;;r;;d28,167;;b0,0;;mmime;;pext;;p">
+</treenode>
+<treenode node="isImage;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;141;2;157;;;;vpos;;v;;r;;d30,141;;b0,0;;mmime;;pext;;p">
+</treenode>
+<treenode node="isJPEG;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;159;2;165;;;;vpos;;v;;r;;d29,159;;b0,0;;mmime;;pext;;p">
+</treenode>
+<treenode node="isPNG;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;175;2;181;;;;vpos;;v;;r;;d28,175;;b0,0;;mmime;;pext;;p">
+</treenode>
+<treenode node="resizeFromGIF;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;198;2;203;;;;vpos;;v;;r;;d31,198;;b0,0;;mfile;;p">
+</treenode>
+<treenode node="resizeFromJPEG;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;191;2;196;;;;vpos;;v;;r;;d32,191;;b0,0;;mfile;;p">
+</treenode>
+<treenode node="resizeFromPNG;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;205;2;210;;;;vpos;;v;;r;;d31,205;;b0,0;;mfile;;p">
+</treenode>
+<treenode node="resizeImage;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;212;2;237;;;;vpos;;v;;r;;d28,212;;b0,0;;mimg;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;40;2;100;;;;vpos;;v;;r;;d16,40;;b0,0;;m">
+</treenode>
+<treenode node="save;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Thumbnail.php;f1;109;2;112;;;;vpos;;v;;r
+Definition
+    save($file)
+
+Description
+     Save the thumbnail file.
+
+Parameters:
+    string $file - file name to be saved as;;d1,110;;b0,0;;mstring $file;;p">
+</treenode>
+<treenode node="Thumbnail;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\Classes\Thumbnail.php;f1;55;2;60;;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\Thumbnail.php;f1;31;2;38;;;;vpos;;v;;r
+Definition
+    Thumbnail($width=96, $height=96)
+
+Description
+     Create a new Thumbnail instance.
+
+Parameters:
+    int $width - thumbnail width
+    int $height - thumbnail height;;d1,56;;b0,0;;mint $width;;pint $height;;p">
+</treenode>
+</treenode>
+<treenode node="antiinjection;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\cek_login.php;f0;2;1;5;;C:\xampp56\htdocs\sepatubagus\cek_login_user.php;f0;2;1;5;;;;vpos;;v;;r;;d29,2;;b0,0;;mdata;;p">
+</treenode>
+<treenode node="autolink;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_autolink.php;f0;1;1;9;;;;vpos;;v;;r;;d24,1;;b0,0;;mstr;;p">
+</treenode>
+<treenode node="combobln;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_combobox.php;f0;25;1;47;;;;vpos;;v;;r;;d49,25;;b0,0;;mawal;;pakhir;;pvar;;pterpilih;;p">
+</treenode>
+<treenode node="combonamabln;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_combobox.php;f0;60;1;72;;;;vpos;;v;;r;;d53,60;;b0,0;;mawal;;pakhir;;pvar;;pterpilih;;p">
+</treenode>
+<treenode node="combotgl;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_combobox.php;f0;1;1;23;;;;vpos;;v;;r;;d49,1;;b0,0;;mawal;;pakhir;;pvar;;pterpilih;;p">
+</treenode>
+<treenode node="combothn;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_combobox.php;f0;49;1;58;;;;vpos;;v;;r;;d49,49;;b0,0;;mawal;;pakhir;;pvar;;pterpilih;;p">
+</treenode>
+<treenode node="deleteAbandonedCart;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\aksi.php;f0;74;1;78;;;;vpos;;v;;r;;d30,74;;b0,0;;m">
+</treenode>
+<treenode node="drawDirs;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\images.php;f0;68;1;84;;;;vpos;;v;;r
+Definition
+    drawDirs($list, &amp;$manager)
+
+Description
+     Draw the directory.;;d0,69;;b0,0;;mlist;;pmanager;;p">
+</treenode>
+<treenode node="drawErrorBase;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\images.php;f0;104;1;113;;;;vpos;;v;;r
+Definition
+    drawErrorBase(&amp;$manager)
+
+Description
+     No directories and no files.;;d0,105;;b0,0;;mmanager;;p">
+</treenode>
+<treenode node="drawFiles;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\images.php;f0;48;1;62;;;;vpos;;v;;r
+Definition
+    drawFiles($list, &amp;$manager)
+
+Description
+     Draw the files in an table.;;d0,49;;b0,0;;mlist;;pmanager;;p">
+</treenode>
+<treenode node="drawNoResults;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\imagemanager\images.php;f0;90;1;99;;;;vpos;;v;;r
+Definition
+    drawNoResults()
+
+Description
+     No directories and no files.;;d0,91;;b0,0;;m">
+</treenode>
+<treenode node="errorHandler;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\connector.php;f0;24;1;65;;;;vpos;;v;;r;;d73,24;;b0,0;;merrno;;perrstr;;perrfile;;perrline;;perrcontext;;p">
+</treenode>
+<treenode node="format_rupiah;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_rupiah.php;f0;1;1;4;;;;vpos;;v;;r;;d30,1;;b0,0;;mangka;;p">
+</treenode>
+<treenode node="getBulan;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_indotgl.php;f1;8;4;47;;;;vpos;;v;;r;;d24,8;;b0,0;;mbln;;p">
+</treenode>
+<treenode node="GetCheckboxes;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_berita\berita.php;f0;9;1;19;;;;vpos;;v;;r;;d56,9;;b0,0;;mtable;;pkey;;pLabel;;pNilai;;p">
+</treenode>
+<treenode node="getFileContents;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\tiny_mce_gzip.php;f1;150;2;170;;;;vpos;;v;;r;;d33,150;;b0,0;;mpath;;p">
+</treenode>
+<treenode node="getParam;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\tiny_mce_gzip.php;f1;143;2;148;;;;vpos;;v;;r;;d40,143;;b0,0;;mname;;pdef;;p">
+</treenode>
+<treenode node="iconLookup;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\Commands\helpers\iconlookup.php;f0;17;1;106;;;;vpos;;v;;r;;d32,17;;b0,0;;mmime;;pext;;p">
+</treenode>
+<treenode node="isi_keranjang;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tengah2.php;f0;834;1;843;;C:\xampp56\htdocs\sepatubagus\tengah.php;f0;799;1;808;;;;vpos;;v;;r;;d24,834;;b0,0;;m">
+</treenode>
+<treenode node="outputHeaders;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\connector.php;f0;172;1;190;;;;vpos;;v;;r;;d25,172;;b0,0;;m">
+</treenode>
+<treenode node="putFileContents;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\tiny_mce_gzip.php;f1;172;2;181;;;;vpos;;v;;r;;d43,172;;b0,0;;mpath;;pcontent;;p">
+</treenode>
+<treenode node="recordOutput;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\tinymcpuk\filemanager\connectors\php\connector.php;f0;149;1;170;;;;vpos;;v;;r;;d24,149;;b0,0;;m">
+</treenode>
+<treenode node="rp;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\adminweb\modul\mod_laporan\rupiah.php;f0;1;1;14;;;;vpos;;v;;r;;d18,1;;b0,0;;muang;;p">
+</treenode>
+<treenode node="sensor;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_badword.php;f0;1;1;7;;;;vpos;;v;;r;;d22,1;;b0,0;;mteks;;p">
+</treenode>
+<treenode node="seo_title;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_seo.php;f0;1;1;9;;;;vpos;;v;;r;;d23,1;;b0,0;;ms;;p">
+</treenode>
+<treenode node="tgl_indo;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_indotgl.php;f1;1;2;6;;;;vpos;;v;;r;;d24,1;;b0,0;;mtgl;;p">
+</treenode>
+<treenode node="UploadAlbum;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_thumb.php;f0;87;1;135;;;;vpos;;v;;r;;d35,87;;b0,0;;mfupload_name;;p">
+</treenode>
+<treenode node="UploadBanner;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_thumb.php;f0;67;1;75;;;;vpos;;v;;r;;d36,67;;b0,0;;mfupload_name;;p">
+</treenode>
+<treenode node="UploadFile;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_thumb.php;f0;77;1;85;;;;vpos;;v;;r;;d34,77;;b0,0;;mfupload_name;;p">
+</treenode>
+<treenode node="UploadGallery;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_thumb.php;f0;137;1;185;;;;vpos;;v;;r;;d37,137;;b0,0;;mfupload_name;;p">
+</treenode>
+<treenode node="UploadHeader;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_thumb.php;f0;52;1;60;;;;vpos;;v;;r;;d36,52;;b0,0;;mfupload_name;;p">
+</treenode>
+<treenode node="UploadIklan;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_thumb.php;f0;337;1;385;;;;vpos;;v;;r;;d35,337;;b0,0;;mfupload_name;;p">
+</treenode>
+<treenode node="UploadImage;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_thumb.php;f0;1;1;49;;;;vpos;;v;;r;;d35,1;;b0,0;;mfupload_name;;p">
+</treenode>
+<treenode node="UploadInfo;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_thumb.php;f0;237;1;285;;;;vpos;;v;;r;;d34,237;;b0,0;;mfupload_name;;p">
+</treenode>
+<treenode node="UploadKomentar;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_thumb.php;f0;287;1;335;;;;vpos;;v;;r;;d38,287;;b0,0;;mfupload_name;;p">
+</treenode>
+<treenode node="UploadLink;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_thumb.php;f0;387;1;435;;;;vpos;;v;;r;;d34,387;;b0,0;;mfupload_name;;p">
+</treenode>
+<treenode node="UploadPeta;PHP:Function Name;C:\xampp56\htdocs\sepatubagus\config\fungsi_thumb.php;f0;187;1;235;;;;vpos;;v;;r;;d34,187;;b0,0;;mfupload_name;;p">
+</treenode>
+</phptree>
+</codestructure>
